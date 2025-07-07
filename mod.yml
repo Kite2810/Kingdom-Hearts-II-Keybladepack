@@ -1,1 +1,1972 @@
-title: Kingdom Hearts II Keyblade PackoriginalAuthor: Kité & Absolutely_Subarashiidescription: This will change all 24 Keyblades from Kingdom Hearts Birth by Sleep Final Mix [PC] into all 24 Keyblades from Kingdom Hearts II. Compatible with all Languages (Italian excluded). Changes collision, particle, swing, hit effects. Also changes the text and stats to the one from Kingdom Hearts II. (Edge of Ultima as Bonus) In order to have the corrects stats and Keychain positions, Run the Patcher inside "openkh/mods/_PATCHER". To restore your Original BBS exe, Run the Patcher again.assets:- name: arc\pc_aqua\shopMdlAq.arc  method: copy  source:  - name: arc\pc_aqua\shopMdlAq.arc- name: arc\pc_ven\shopMdlVe.arc  method: copy  source:  - name: arc\pc_ven\shopMdlVe.arc- name: arc\weapon\w01aq00.arc  method: copy  source:  - name: arc\weapon\w01aq00.arc- name: arc\weapon\w01te00.arc  method: copy  source:  - name: arc\weapon\w01te00.arc- name: arc\weapon\w01ve00.arc  method: copy  source:  - name: arc\weapon\w01ve00.arc- name: arc\weapon\w02aq00.arc  method: copy  source:  - name: arc\weapon\w02aq00.arc- name: arc\weapon\w02ex10.arc  method: copy  source:  - name: arc\weapon\w02ex10.arc- name: arc\weapon\w02te00.arc  method: copy  source:  - name: arc\weapon\w02te00.arc- name: arc\weapon\w02ve00.arc  method: copy  source:  - name: arc\weapon\w02ve00.arc- name: arc\weapon\w03aq00.arc  method: copy  source:  - name: arc\weapon\w03aq00.arc- name: arc\weapon\w03ex10.arc  method: copy  source:  - name: arc\weapon\w03ex10.arc- name: arc\weapon\w03te00.arc  method: copy  source:  - name: arc\weapon\w03te00.arc- name: arc\weapon\w03ve00.arc  method: copy  source:  - name: arc\weapon\w03ve00.arc- name: arc\weapon\w04aq00.arc  method: copy  source:  - name: arc\weapon\w04aq00.arc- name: arc\weapon\w04ex10.arc  method: copy  source:  - name: arc\weapon\w04ex10.arc- name: arc\weapon\w04te00.arc  method: copy  source:  - name: arc\weapon\w04te00.arc- name: arc\weapon\w04ve00.arc  method: copy  source:  - name: arc\weapon\w04ve00.arc- name: arc\weapon\w05aq00.arc  method: copy  source:  - name: arc\weapon\w05aq00.arc- name: arc\weapon\w05ex10.arc  method: copy  source:  - name: arc\weapon\w05ex10.arc- name: arc\weapon\w05te00.arc  method: copy  source:  - name: arc\weapon\w05te00.arc- name: arc\weapon\w05ve00.arc  method: copy  source:  - name: arc\weapon\w05ve00.arc- name: arc\weapon\w06aq00.arc  method: copy  source:  - name: arc\weapon\w06aq00.arc- name: arc\weapon\w06ex10.arc  method: copy  source:  - name: arc\weapon\w06ex10.arc- name: arc\weapon\w06te00.arc  method: copy  source:  - name: arc\weapon\w06te00.arc- name: arc\weapon\w06ve00.arc  method: copy  source:  - name: arc\weapon\w06ve00.arc- name: arc\weapon\w07aq00.arc  method: copy  source:  - name: arc\weapon\w07aq00.arc- name: arc\weapon\w07ex10.arc  method: copy  source:  - name: arc\weapon\w07ex10.arc- name: arc\weapon\w07te00.arc  method: copy  source:  - name: arc\weapon\w07te00.arc- name: arc\weapon\w07ve00.arc  method: copy  source:  - name: arc\weapon\w07ve00.arc- name: arc\weapon\w09aq00.arc  method: copy  source:  - name: arc\weapon\w09aq00.arc- name: arc\weapon\w09ex10.arc  method: copy  source:  - name: arc\weapon\w09ex10.arc- name: arc\weapon\w09te00.arc  method: copy  source:  - name: arc\weapon\w09te00.arc- name: arc\weapon\w09ve00.arc  method: copy  source:  - name: arc\weapon\w09ve00.arc- name: arc\weapon\w10aq00.arc  method: copy  source:  - name: arc\weapon\w10aq00.arc- name: arc\weapon\w10ex10.arc  method: copy  source:  - name: arc\weapon\w10ex10.arc- name: arc\weapon\w10te00.arc  method: copy  source:  - name: arc\weapon\w10te00.arc- name: arc\weapon\w10ve00.arc  method: copy  source:  - name: arc\weapon\w10ve00.arc- name: arc\weapon\w11aq00.arc  method: copy  source:  - name: arc\weapon\w11aq00.arc- name: arc\weapon\w11ex10.arc  method: copy  source:  - name: arc\weapon\w11ex10.arc- name: arc\weapon\w11te00.arc  method: copy  source:  - name: arc\weapon\w11te00.arc- name: arc\weapon\w11ve00.arc  method: copy  source:  - name: arc\weapon\w11ve00.arc- name: arc\weapon\w12aq00.arc  method: copy  source:  - name: arc\weapon\w12aq00.arc- name: arc\weapon\w12te00.arc  method: copy  source:  - name: arc\weapon\w12te00.arc- name: arc\weapon\w12ve00.arc  method: copy  source:  - name: arc\weapon\w12ve00.arc- name: arc\weapon\w13aq00.arc  method: copy  source:  - name: arc\weapon\w13aq00.arc- name: arc\weapon\w13te00.arc  method: copy  source:  - name: arc\weapon\w13te00.arc- name: arc\weapon\w14aq00.arc  method: copy  source:  - name: arc\weapon\w14aq00.arc- name: arc\weapon\w14te00.arc  method: copy  source:  - name: arc\weapon\w14te00.arc- name: arc\weapon\w14ve00.arc  method: copy  source:  - name: arc\weapon\w14ve00.arc- name: arc\weapon\w15ve00.arc  method: copy  source:  - name: arc\weapon\w15ve00.arc- name: arc\weapon\w16aq00.arc  method: copy  source:  - name: arc\weapon\w16aq00.arc- name: arc\weapon\w16ex10.arc  method: copy  source:  - name: arc\weapon\w16ex10.arc- name: arc\weapon\w16te00.arc  method: copy  source:  - name: arc\weapon\w16te00.arc- name: arc\weapon\w16ve00.arc  method: copy  source:  - name: arc\weapon\w16ve00.arc- name: arc\weapon\w17aq00.arc  method: copy  source:  - name: arc\weapon\w17aq00.arc- name: arc\weapon\w17ex10.arc  method: copy  source:  - name: arc\weapon\w17ex10.arc- name: arc\weapon\w17te00.arc  method: copy  source:  - name: arc\weapon\w17te00.arc- name: arc\weapon\w17ve00.arc  method: copy  source:  - name: arc\weapon\w17ve00.arc- name: arc\weapon\w18aq00.arc  method: copy  source:  - name: arc\weapon\w18aq00.arc- name: arc\weapon\w18ex10.arc  method: copy  source:  - name: arc\weapon\w18ex10.arc- name: arc\weapon\w18te00.arc  method: copy  source:  - name: arc\weapon\w18te00.arc- name: arc\weapon\w18ve00.arc  method: copy  source:  - name: arc\weapon\w18ve00.arc- name: arc\weapon\w19aq00.arc  method: copy  source:  - name: arc\weapon\w19aq00.arc- name: message\de\system\CTit000.ctd  method: copy  source:  - name: message\de\system\CTit000.ctd- name: message\en\system\CTit000.ctd  method: copy  source:  - name: message\en\system\CTit000.ctd- name: message\es\system\CTit000.ctd  method: copy  source:  - name: message\es\system\CTit000.ctd- name: message\fr\system\CTit000.ctd  method: copy  source:  - name: message\fr\system\CTit000.ctd- name: message\it\system\CTit000.ctd  method: copy  source:  - name: message\it\system\CTit000.ctd- name: chara\weapon\w01aq\00\w01aq00.pmo  method: copy  source:  - name: chara\weapon\w01aq\00\w01aq00.pmo- name: chara\weapon\w01aq\0s\w01aq0s.pmo  method: copy  source:  - name: chara\weapon\w01aq\0s\w01aq0s.pmo- name: chara\weapon\w01aq\10\w01aq10.pmo  method: copy  source:  - name: chara\weapon\w01aq\10\w01aq10.pmo- name: chara\weapon\w01te\00\w01te00.pmo  method: copy  source:  - name: chara\weapon\w01te\00\w01te00.pmo- name: chara\weapon\w01te\0s\w01te0s.pmo  method: copy  source:  - name: chara\weapon\w01te\0s\w01te0s.pmo- name: chara\weapon\w01te\10\w01te10.pmo  method: copy  source:  - name: chara\weapon\w01te\10\w01te10.pmo- name: chara\weapon\w01ve\00\w01ve00.pmo  method: copy  source:  - name: chara\weapon\w01ve\00\w01ve00.pmo- name: chara\weapon\w01ve\0s\w01ve0s.pmo  method: copy  source:  - name: chara\weapon\w01ve\0s\w01ve0s.pmo- name: chara\weapon\w01ve\10\w01ve10.pmo  method: copy  source:  - name: chara\weapon\w01ve\10\w01ve10.pmo- name: chara\weapon\w02aq\00\w02aq00.pmo  method: copy  source:  - name: chara\weapon\w02aq\00\w02aq00.pmo- name: chara\weapon\w02aq\0s\w02aq0s.pmo  method: copy  source:  - name: chara\weapon\w02aq\0s\w02aq0s.pmo- name: chara\weapon\w02ex\10\w02ex10.pmo  method: copy  source:  - name: chara\weapon\w02ex\10\w02ex10.pmo- name: chara\weapon\w02te\00\w02te00.pmo  method: copy  source:  - name: chara\weapon\w02te\00\w02te00.pmo- name: chara\weapon\w02te\0s\w02te0s.pmo  method: copy  source:  - name: chara\weapon\w02te\0s\w02te0s.pmo- name: chara\weapon\w02ve\00\w02ve00.pmo  method: copy  source:  - name: chara\weapon\w02ve\00\w02ve00.pmo- name: chara\weapon\w02ve\0s\w02ve0s.pmo  method: copy  source:  - name: chara\weapon\w02ve\0s\w02ve0s.pmo- name: chara\weapon\w03aq\00\w03aq00.pmo  method: copy  source:  - name: chara\weapon\w03aq\00\w03aq00.pmo- name: chara\weapon\w03aq\0s\w03aq0s.pmo  method: copy  source:  - name: chara\weapon\w03aq\0s\w03aq0s.pmo- name: chara\weapon\w03ex\10\w03ex10.pmo  method: copy  source:  - name: chara\weapon\w03ex\10\w03ex10.pmo- name: chara\weapon\w03te\00\w03te00.pmo  method: copy  source:  - name: chara\weapon\w03te\00\w03te00.pmo- name: chara\weapon\w03te\0s\w03te0s.pmo  method: copy  source:  - name: chara\weapon\w03te\0s\w03te0s.pmo- name: chara\weapon\w03ve\00\w03ve00.pmo  method: copy  source:  - name: chara\weapon\w03ve\00\w03ve00.pmo- name: chara\weapon\w03ve\0s\w03ve0s.pmo  method: copy  source:  - name: chara\weapon\w03ve\0s\w03ve0s.pmo- name: chara\weapon\w04aq\00\w04aq00.pmo  method: copy  source:  - name: chara\weapon\w04aq\00\w04aq00.pmo- name: chara\weapon\w04aq\0s\w04aq0s.pmo  method: copy  source:  - name: chara\weapon\w04aq\0s\w04aq0s.pmo- name: chara\weapon\w04ex\10\w04ex10.pmo  method: copy  source:  - name: chara\weapon\w04ex\10\w04ex10.pmo- name: chara\weapon\w04te\00\w04te00.pmo  method: copy  source:  - name: chara\weapon\w04te\00\w04te00.pmo- name: chara\weapon\w04te\0s\w04te0s.pmo  method: copy  source:  - name: chara\weapon\w04te\0s\w04te0s.pmo- name: chara\weapon\w04ve\00\w04ve00.pmo  method: copy  source:  - name: chara\weapon\w04ve\00\w04ve00.pmo- name: chara\weapon\w04ve\0s\w04ve0s.pmo  method: copy  source:  - name: chara\weapon\w04ve\0s\w04ve0s.pmo- name: chara\weapon\w05aq\00\w05aq00.pmo  method: copy  source:  - name: chara\weapon\w05aq\00\w05aq00.pmo- name: chara\weapon\w05aq\0s\w05aq0s.pmo  method: copy  source:  - name: chara\weapon\w05aq\0s\w05aq0s.pmo- name: chara\weapon\w05ex\10\w05ex10.pmo  method: copy  source:  - name: chara\weapon\w05ex\10\w05ex10.pmo- name: chara\weapon\w05te\00\w05te00.pmo  method: copy  source:  - name: chara\weapon\w05te\00\w05te00.pmo- name: chara\weapon\w05te\0s\w05te0s.pmo  method: copy  source:  - name: chara\weapon\w05te\0s\w05te0s.pmo- name: chara\weapon\w05ve\00\w05ve00.pmo  method: copy  source:  - name: chara\weapon\w05ve\00\w05ve00.pmo- name: chara\weapon\w05ve\0s\w05ve0s.pmo  method: copy  source:  - name: chara\weapon\w05ve\0s\w05ve0s.pmo- name: chara\weapon\w06aq\00\w06aq00.pmo  method: copy  source:  - name: chara\weapon\w06aq\00\w06aq00.pmo- name: chara\weapon\w06aq\0s\w06aq0s.pmo  method: copy  source:  - name: chara\weapon\w06aq\0s\w06aq0s.pmo- name: chara\weapon\w06ex\10\w06ex10.pmo  method: copy  source:  - name: chara\weapon\w06ex\10\w06ex10.pmo- name: chara\weapon\w06te\00\w06te00.pmo  method: copy  source:  - name: chara\weapon\w06te\00\w06te00.pmo- name: chara\weapon\w06te\0s\w06te0s.pmo  method: copy  source:  - name: chara\weapon\w06te\0s\w06te0s.pmo- name: chara\weapon\w06ve\00\w06ve00.pmo  method: copy  source:  - name: chara\weapon\w06ve\00\w06ve00.pmo- name: chara\weapon\w06ve\0s\w06ve0s.pmo  method: copy  source:  - name: chara\weapon\w06ve\0s\w06ve0s.pmo- name: chara\weapon\w07aq\00\w07aq00.pmo  method: copy  source:  - name: chara\weapon\w07aq\00\w07aq00.pmo- name: chara\weapon\w07aq\0s\w07aq0s.pmo  method: copy  source:  - name: chara\weapon\w07aq\0s\w07aq0s.pmo- name: chara\weapon\w07ex\10\w07ex10.pmo  method: copy  source:  - name: chara\weapon\w07ex\10\w07ex10.pmo- name: chara\weapon\w07te\00\w07te00.pmo  method: copy  source:  - name: chara\weapon\w07te\00\w07te00.pmo- name: chara\weapon\w07te\0s\w07te0s.pmo  method: copy  source:  - name: chara\weapon\w07te\0s\w07te0s.pmo- name: chara\weapon\w07ve\00\w07ve00.pmo  method: copy  source:  - name: chara\weapon\w07ve\00\w07ve00.pmo- name: chara\weapon\w07ve\0s\w07ve0s.pmo  method: copy  source:  - name: chara\weapon\w07ve\0s\w07ve0s.pmo- name: chara\weapon\w09aq\00\w09aq00.pmo  method: copy  source:  - name: chara\weapon\w09aq\00\w09aq00.pmo- name: chara\weapon\w09aq\0s\w09aq0s.pmo  method: copy  source:  - name: chara\weapon\w09aq\0s\w09aq0s.pmo- name: chara\weapon\w09ex\10\w09ex10.pmo  method: copy  source:  - name: chara\weapon\w09ex\10\w09ex10.pmo- name: chara\weapon\w09te\00\w09te00.pmo  method: copy  source:  - name: chara\weapon\w09te\00\w09te00.pmo- name: chara\weapon\w09te\0s\w09te0s.pmo  method: copy  source:  - name: chara\weapon\w09te\0s\w09te0s.pmo- name: chara\weapon\w09ve\00\w09ve00.pmo  method: copy  source:  - name: chara\weapon\w09ve\00\w09ve00.pmo- name: chara\weapon\w09ve\0s\w09ve0s.pmo  method: copy  source:  - name: chara\weapon\w09ve\0s\w09ve0s.pmo- name: chara\weapon\w10aq\00\w10aq00.pmo  method: copy  source:  - name: chara\weapon\w10aq\00\w10aq00.pmo- name: chara\weapon\w10aq\0s\w10aq0s.pmo  method: copy  source:  - name: chara\weapon\w10aq\0s\w10aq0s.pmo- name: chara\weapon\w10ex\10\w10ex10.pmo  method: copy  source:  - name: chara\weapon\w10ex\10\w10ex10.pmo- name: chara\weapon\w10te\00\w10te00.pmo  method: copy  source:  - name: chara\weapon\w10te\00\w10te00.pmo- name: chara\weapon\w10te\0s\w10te0s.pmo  method: copy  source:  - name: chara\weapon\w10te\0s\w10te0s.pmo- name: chara\weapon\w10ve\00\w10ve00.pmo  method: copy  source:  - name: chara\weapon\w10ve\00\w10ve00.pmo- name: chara\weapon\w10ve\0s\w10ve0s.pmo  method: copy  source:  - name: chara\weapon\w10ve\0s\w10ve0s.pmo- name: chara\weapon\w11aq\00\w11aq00.pmo  method: copy  source:  - name: chara\weapon\w11aq\00\w11aq00.pmo- name: chara\weapon\w11aq\0s\w11aq0s.pmo  method: copy  source:  - name: chara\weapon\w11aq\0s\w11aq0s.pmo- name: chara\weapon\w11ex\10\w11ex10.pmo  method: copy  source:  - name: chara\weapon\w11ex\10\w11ex10.pmo- name: chara\weapon\w11te\00\w11te00.pmo  method: copy  source:  - name: chara\weapon\w11te\00\w11te00.pmo- name: chara\weapon\w11te\0s\w11te0s.pmo  method: copy  source:  - name: chara\weapon\w11te\0s\w11te0s.pmo- name: chara\weapon\w11ve\00\w11ve00.pmo  method: copy  source:  - name: chara\weapon\w11ve\00\w11ve00.pmo- name: chara\weapon\w11ve\0s\w11ve0s.pmo  method: copy  source:  - name: chara\weapon\w11ve\0s\w11ve0s.pmo- name: chara\weapon\w12aq\00\w12aq00.pmo  method: copy  source:  - name: chara\weapon\w12aq\00\w12aq00.pmo- name: chara\weapon\w12aq\0s\w12aq0s.pmo  method: copy  source:  - name: chara\weapon\w12aq\0s\w12aq0s.pmo- name: chara\weapon\w12aq\10\w12aq10.pmo  method: copy  source:  - name: chara\weapon\w12aq\10\w12aq10.pmo- name: chara\weapon\w12te\00\w12te00.pmo  method: copy  source:  - name: chara\weapon\w12te\00\w12te00.pmo- name: chara\weapon\w12te\0s\w12te0s.pmo  method: copy  source:  - name: chara\weapon\w12te\0s\w12te0s.pmo- name: chara\weapon\w12te\10\w12te10.pmo  method: copy  source:  - name: chara\weapon\w12te\10\w12te10.pmo- name: chara\weapon\w12ve\00\w12ve00.pmo  method: copy  source:  - name: chara\weapon\w12ve\00\w12ve00.pmo- name: chara\weapon\w12ve\0s\w12ve0s.pmo  method: copy  source:  - name: chara\weapon\w12ve\0s\w12ve0s.pmo- name: chara\weapon\w12ve\10\w12ve10.pmo  method: copy  source:  - name: chara\weapon\w12ve\10\w12ve10.pmo- name: chara\weapon\w13aq\00\w13aq00.pmo  method: copy  source:  - name: chara\weapon\w13aq\00\w13aq00.pmo- name: chara\weapon\w13aq\0s\w13aq0s.pmo  method: copy  source:  - name: chara\weapon\w13aq\0s\w13aq0s.pmo- name: chara\weapon\w13aq\10\w13aq10.pmo  method: copy  source:  - name: chara\weapon\w13aq\10\w13aq10.pmo- name: chara\weapon\w13aq\1s\w13aq1s.pmo  method: copy  source:  - name: chara\weapon\w13aq\1s\w13aq1s.pmo- name: chara\weapon\w13te\00\w13te00.pmo  method: copy  source:  - name: chara\weapon\w13te\00\w13te00.pmo- name: chara\weapon\w13te\0s\w13te0s.pmo  method: copy  source:  - name: chara\weapon\w13te\0s\w13te0s.pmo- name: chara\weapon\w13te\10\w13te10.pmo  method: copy  source:  - name: chara\weapon\w13te\10\w13te10.pmo- name: chara\weapon\w14aq\00\w14aq00.pmo  method: copy  source:  - name: chara\weapon\w14aq\00\w14aq00.pmo- name: chara\weapon\w14aq\0s\w14aq0s.pmo  method: copy  source:  - name: chara\weapon\w14aq\0s\w14aq0s.pmo- name: chara\weapon\w14aq\10\w14aq10.pmo  method: copy  source:  - name: chara\weapon\w14aq\10\w14aq10.pmo- name: chara\weapon\w14te\00\w14te00.pmo  method: copy  source:  - name: chara\weapon\w14te\00\w14te00.pmo- name: chara\weapon\w14te\0s\w14te0s.pmo  method: copy  source:  - name: chara\weapon\w14te\0s\w14te0s.pmo- name: chara\weapon\w14te\10\w14te10.pmo  method: copy  source:  - name: chara\weapon\w14te\10\w14te10.pmo- name: chara\weapon\w14ve\00\w14ve00.pmo  method: copy  source:  - name: chara\weapon\w14ve\00\w14ve00.pmo- name: chara\weapon\w14ve\0s\w14ve0s.pmo  method: copy  source:  - name: chara\weapon\w14ve\0s\w14ve0s.pmo- name: chara\weapon\w14ve\10\w14ve10.pmo  method: copy  source:  - name: chara\weapon\w14ve\10\w14ve10.pmo- name: chara\weapon\w15ve\00\w15ve00.pmo  method: copy  source:  - name: chara\weapon\w15ve\00\w15ve00.pmo- name: chara\weapon\w15ve\0s\w15ve0s.pmo  method: copy  source:  - name: chara\weapon\w15ve\0s\w15ve0s.pmo- name: chara\weapon\w15ve\10\w15ve10.pmo  method: copy  source:  - name: chara\weapon\w15ve\10\w15ve10.pmo- name: chara\weapon\w16aq\00\w16aq00.pmo  method: copy  source:  - name: chara\weapon\w16aq\00\w16aq00.pmo- name: chara\weapon\w16aq\0s\w16aq0s.pmo  method: copy  source:  - name: chara\weapon\w16aq\0s\w16aq0s.pmo- name: chara\weapon\w16ex\10\w16ex10.pmo  method: copy  source:  - name: chara\weapon\w16ex\10\w16ex10.pmo- name: chara\weapon\w16te\00\w16te00.pmo  method: copy  source:  - name: chara\weapon\w16te\00\w16te00.pmo- name: chara\weapon\w16te\0s\w16te0s.pmo  method: copy  source:  - name: chara\weapon\w16te\0s\w16te0s.pmo- name: chara\weapon\w16ve\00\w16ve00.pmo  method: copy  source:  - name: chara\weapon\w16ve\00\w16ve00.pmo- name: chara\weapon\w16ve\0s\w16ve0s.pmo  method: copy  source:  - name: chara\weapon\w16ve\0s\w16ve0s.pmo- name: chara\weapon\w17aq\00\w17aq00.pmo  method: copy  source:  - name: chara\weapon\w17aq\00\w17aq00.pmo- name: chara\weapon\w17aq\0s\w17aq0s.pmo  method: copy  source:  - name: chara\weapon\w17aq\0s\w17aq0s.pmo- name: chara\weapon\w17ex\10\w17ex10.pmo  method: copy  source:  - name: chara\weapon\w17ex\10\w17ex10.pmo- name: chara\weapon\w17te\00\w17te00.pmo  method: copy  source:  - name: chara\weapon\w17te\00\w17te00.pmo- name: chara\weapon\w17te\0s\w17te0s.pmo  method: copy  source:  - name: chara\weapon\w17te\0s\w17te0s.pmo- name: chara\weapon\w17ve\00\w17ve00.pmo  method: copy  source:  - name: chara\weapon\w17ve\00\w17ve00.pmo- name: chara\weapon\w17ve\0s\w17ve0s.pmo  method: copy  source:  - name: chara\weapon\w17ve\0s\w17ve0s.pmo- name: chara\weapon\w18aq\00\w18aq00.pmo  method: copy  source:  - name: chara\weapon\w18aq\00\w18aq00.pmo- name: chara\weapon\w18aq\0s\w18aq0s.pmo  method: copy  source:  - name: chara\weapon\w18aq\0s\w18aq0s.pmo- name: chara\weapon\w18ex\10\w18ex10.pmo  method: copy  source:  - name: chara\weapon\w18ex\10\w18ex10.pmo- name: chara\weapon\w18te\00\w18te00.pmo  method: copy  source:  - name: chara\weapon\w18te\00\w18te00.pmo- name: chara\weapon\w18te\0s\w18te0s.pmo  method: copy  source:  - name: chara\weapon\w18te\0s\w18te0s.pmo- name: chara\weapon\w18ve\00\w18ve00.pmo  method: copy  source:  - name: chara\weapon\w18ve\00\w18ve00.pmo- name: chara\weapon\w18ve\0s\w18ve0s.pmo  method: copy  source:  - name: chara\weapon\w18ve\0s\w18ve0s.pmo- name: chara\weapon\w19aq\00\w19aq00.pmo  method: copy  source:  - name: chara\weapon\w19aq\00\w19aq00.pmo- name: chara\weapon\w19aq\0s\w19aq0s.pmo  method: copy  source:  - name: chara\weapon\w19aq\0s\w19aq0s.pmo- name: chara\weapon\w19aq\10\w19aq10.pmo  method: copy  source:  - name: chara\weapon\w19aq\10\w19aq10.pmo- name: remastered\arc\weapon\w01aq00.arc\JP_w01aq00_arc0.dds  method: copy  source:  - name: remastered\arc\weapon\w01aq00.arc\JP_w01aq00_arc0.dds- name: remastered\arc\weapon\w01aq00.arc\JP_w01aq00_arc1.dds  method: copy  source:  - name: remastered\arc\weapon\w01aq00.arc\JP_w01aq00_arc1.dds- name: remastered\arc\weapon\w01aq00.arc\JP_w01aq00_arc2.dds  method: copy  source:  - name: remastered\arc\weapon\w01aq00.arc\JP_w01aq00_arc2.dds- name: remastered\arc\weapon\w01te00.arc\JP_w01te00_arc0.dds  method: copy  source:  - name: remastered\arc\weapon\w01te00.arc\JP_w01te00_arc0.dds- name: remastered\arc\weapon\w01te00.arc\JP_w01te00_arc1.dds  method: copy  source:  - name: remastered\arc\weapon\w01te00.arc\JP_w01te00_arc1.dds- name: remastered\arc\weapon\w01te00.arc\JP_w01te00_arc2.dds  method: copy  source:  - name: remastered\arc\weapon\w01te00.arc\JP_w01te00_arc2.dds- name: remastered\arc\weapon\w01ve00.arc\JP_w01ve00_arc0.dds  method: copy  source:  - name: remastered\arc\weapon\w01ve00.arc\JP_w01ve00_arc0.dds- name: remastered\arc\weapon\w01ve00.arc\JP_w01ve00_arc1.dds  method: copy  source:  - name: remastered\arc\weapon\w01ve00.arc\JP_w01ve00_arc1.dds- name: remastered\arc\weapon\w01ve00.arc\JP_w01ve00_arc2.dds  method: copy  source:  - name: remastered\arc\weapon\w01ve00.arc\JP_w01ve00_arc2.dds- name: remastered\arc\weapon\w02aq00.arc\JP_w02aq00_arc0.dds  method: copy  source:  - name: remastered\arc\weapon\w02aq00.arc\JP_w02aq00_arc0.dds- name: remastered\arc\weapon\w02ex10.arc\JP_w02ex10_arc0.dds  method: copy  source:  - name: remastered\arc\weapon\w02ex10.arc\JP_w02ex10_arc0.dds- name: remastered\arc\weapon\w02ex10.arc\JP_w02ex10_arc1.dds  method: copy  source:  - name: remastered\arc\weapon\w02ex10.arc\JP_w02ex10_arc1.dds- name: remastered\arc\weapon\w02te00.arc\JP_w02te00_arc0.dds  method: copy  source:  - name: remastered\arc\weapon\w02te00.arc\JP_w02te00_arc0.dds- name: remastered\arc\weapon\w02ve00.arc\JP_w02ve00_arc0.dds  method: copy  source:  - name: remastered\arc\weapon\w02ve00.arc\JP_w02ve00_arc0.dds- name: remastered\arc\weapon\w03aq00.arc\JP_w03aq00_arc0.dds  method: copy  source:  - name: remastered\arc\weapon\w03aq00.arc\JP_w03aq00_arc0.dds- name: remastered\arc\weapon\w03ex10.arc\JP_w03ex10_arc0.dds  method: copy  source:  - name: remastered\arc\weapon\w03ex10.arc\JP_w03ex10_arc0.dds- name: remastered\arc\weapon\w03ex10.arc\JP_w03ex10_arc1.dds  method: copy  source:  - name: remastered\arc\weapon\w03ex10.arc\JP_w03ex10_arc1.dds- name: remastered\arc\weapon\w03te00.arc\JP_w03te00_arc0.dds  method: copy  source:  - name: remastered\arc\weapon\w03te00.arc\JP_w03te00_arc0.dds- name: remastered\arc\weapon\w03ve00.arc\JP_w03ve00_arc0.dds  method: copy  source:  - name: remastered\arc\weapon\w03ve00.arc\JP_w03ve00_arc0.dds- name: remastered\arc\weapon\w04aq00.arc\JP_w04aq00_arc0.dds  method: copy  source:  - name: remastered\arc\weapon\w04aq00.arc\JP_w04aq00_arc0.dds- name: remastered\arc\weapon\w04ex10.arc\JP_w04ex10_arc0.dds  method: copy  source:  - name: remastered\arc\weapon\w04ex10.arc\JP_w04ex10_arc0.dds- name: remastered\arc\weapon\w04ex10.arc\JP_w04ex10_arc1.dds  method: copy  source:  - name: remastered\arc\weapon\w04ex10.arc\JP_w04ex10_arc1.dds- name: remastered\arc\weapon\w04te00.arc\JP_w04te00_arc0.dds  method: copy  source:  - name: remastered\arc\weapon\w04te00.arc\JP_w04te00_arc0.dds- name: remastered\arc\weapon\w04ve00.arc\JP_w04ve00_arc0.dds  method: copy  source:  - name: remastered\arc\weapon\w04ve00.arc\JP_w04ve00_arc0.dds- name: remastered\arc\weapon\w05aq00.arc\JP_w05aq00_arc0.dds  method: copy  source:  - name: remastered\arc\weapon\w05aq00.arc\JP_w05aq00_arc0.dds- name: remastered\arc\weapon\w05ex10.arc\JP_w05ex10_arc0.dds  method: copy  source:  - name: remastered\arc\weapon\w05ex10.arc\JP_w05ex10_arc0.dds- name: remastered\arc\weapon\w05ex10.arc\JP_w05ex10_arc1.dds  method: copy  source:  - name: remastered\arc\weapon\w05ex10.arc\JP_w05ex10_arc1.dds- name: remastered\arc\weapon\w05te00.arc\JP_w05te00_arc0.dds  method: copy  source:  - name: remastered\arc\weapon\w05te00.arc\JP_w05te00_arc0.dds- name: remastered\arc\weapon\w05ve00.arc\JP_w05ve00_arc0.dds  method: copy  source:  - name: remastered\arc\weapon\w05ve00.arc\JP_w05ve00_arc0.dds- name: remastered\arc\weapon\w06aq00.arc\JP_w06aq00_arc0.dds  method: copy  source:  - name: remastered\arc\weapon\w06aq00.arc\JP_w06aq00_arc0.dds- name: remastered\arc\weapon\w06ex10.arc\JP_w06ex10_arc0.dds  method: copy  source:  - name: remastered\arc\weapon\w06ex10.arc\JP_w06ex10_arc0.dds- name: remastered\arc\weapon\w06ex10.arc\JP_w06ex10_arc1.dds  method: copy  source:  - name: remastered\arc\weapon\w06ex10.arc\JP_w06ex10_arc1.dds- name: remastered\arc\weapon\w06te00.arc\JP_w06te00_arc0.dds  method: copy  source:  - name: remastered\arc\weapon\w06te00.arc\JP_w06te00_arc0.dds- name: remastered\arc\weapon\w06ve00.arc\JP_w06ve00_arc0.dds  method: copy  source:  - name: remastered\arc\weapon\w06ve00.arc\JP_w06ve00_arc0.dds- name: remastered\arc\weapon\w07aq00.arc\JP_w07aq00_arc0.dds  method: copy  source:  - name: remastered\arc\weapon\w07aq00.arc\JP_w07aq00_arc0.dds- name: remastered\arc\weapon\w07ex10.arc\JP_w07ex10_arc0.dds  method: copy  source:  - name: remastered\arc\weapon\w07ex10.arc\JP_w07ex10_arc0.dds- name: remastered\arc\weapon\w07ex10.arc\JP_w07ex10_arc1.dds  method: copy  source:  - name: remastered\arc\weapon\w07ex10.arc\JP_w07ex10_arc1.dds- name: remastered\arc\weapon\w07te00.arc\JP_w07te00_arc0.dds  method: copy  source:  - name: remastered\arc\weapon\w07te00.arc\JP_w07te00_arc0.dds- name: remastered\arc\weapon\w07ve00.arc\JP_w07ve00_arc0.dds  method: copy  source:  - name: remastered\arc\weapon\w07ve00.arc\JP_w07ve00_arc0.dds- name: remastered\arc\weapon\w09aq00.arc\JP_w09aq00_arc0.dds  method: copy  source:  - name: remastered\arc\weapon\w09aq00.arc\JP_w09aq00_arc0.dds- name: remastered\arc\weapon\w09ex10.arc\JP_w09ex10_arc0.dds  method: copy  source:  - name: remastered\arc\weapon\w09ex10.arc\JP_w09ex10_arc0.dds- name: remastered\arc\weapon\w09ex10.arc\JP_w09ex10_arc1.dds  method: copy  source:  - name: remastered\arc\weapon\w09ex10.arc\JP_w09ex10_arc1.dds- name: remastered\arc\weapon\w09te00.arc\JP_w09te00_arc0.dds  method: copy  source:  - name: remastered\arc\weapon\w09te00.arc\JP_w09te00_arc0.dds- name: remastered\arc\weapon\w09ve00.arc\JP_w09ve00_arc0.dds  method: copy  source:  - name: remastered\arc\weapon\w09ve00.arc\JP_w09ve00_arc0.dds- name: remastered\arc\weapon\w10aq00.arc\JP_w10aq00_arc0.dds  method: copy  source:  - name: remastered\arc\weapon\w10aq00.arc\JP_w10aq00_arc0.dds- name: remastered\arc\weapon\w10ex10.arc\JP_w10ex10_arc0.dds  method: copy  source:  - name: remastered\arc\weapon\w10ex10.arc\JP_w10ex10_arc0.dds- name: remastered\arc\weapon\w10ex10.arc\JP_w10ex10_arc1.dds  method: copy  source:  - name: remastered\arc\weapon\w10ex10.arc\JP_w10ex10_arc1.dds- name: remastered\arc\weapon\w10te00.arc\JP_w10te00_arc0.dds  method: copy  source:  - name: remastered\arc\weapon\w10te00.arc\JP_w10te00_arc0.dds- name: remastered\arc\weapon\w10ve00.arc\JP_w10ve00_arc0.dds  method: copy  source:  - name: remastered\arc\weapon\w10ve00.arc\JP_w10ve00_arc0.dds- name: remastered\arc\weapon\w11aq00.arc\JP_w11aq00_arc0.dds  method: copy  source:  - name: remastered\arc\weapon\w11aq00.arc\JP_w11aq00_arc0.dds- name: remastered\arc\weapon\w11ex10.arc\JP_w11ex10_arc0.dds  method: copy  source:  - name: remastered\arc\weapon\w11ex10.arc\JP_w11ex10_arc0.dds- name: remastered\arc\weapon\w11ex10.arc\JP_w11ex10_arc1.dds  method: copy  source:  - name: remastered\arc\weapon\w11ex10.arc\JP_w11ex10_arc1.dds- name: remastered\arc\weapon\w11te00.arc\JP_w11te00_arc0.dds  method: copy  source:  - name: remastered\arc\weapon\w11te00.arc\JP_w11te00_arc0.dds- name: remastered\arc\weapon\w11ve00.arc\JP_w11ve00_arc0.dds  method: copy  source:  - name: remastered\arc\weapon\w11ve00.arc\JP_w11ve00_arc0.dds- name: remastered\arc\weapon\w12aq00.arc\JP_w12aq00_arc0.dds  method: copy  source:  - name: remastered\arc\weapon\w12aq00.arc\JP_w12aq00_arc0.dds- name: remastered\arc\weapon\w12aq00.arc\JP_w12aq00_arc1.dds  method: copy  source:  - name: remastered\arc\weapon\w12aq00.arc\JP_w12aq00_arc1.dds- name: remastered\arc\weapon\w12aq00.arc\JP_w12aq00_arc2.dds  method: copy  source:  - name: remastered\arc\weapon\w12aq00.arc\JP_w12aq00_arc2.dds- name: remastered\arc\weapon\w12te00.arc\JP_w12te00_arc0.dds  method: copy  source:  - name: remastered\arc\weapon\w12te00.arc\JP_w12te00_arc0.dds- name: remastered\arc\weapon\w12te00.arc\JP_w12te00_arc1.dds  method: copy  source:  - name: remastered\arc\weapon\w12te00.arc\JP_w12te00_arc1.dds- name: remastered\arc\weapon\w12te00.arc\JP_w12te00_arc2.dds  method: copy  source:  - name: remastered\arc\weapon\w12te00.arc\JP_w12te00_arc2.dds- name: remastered\arc\weapon\w13aq00.arc\JP_w13aq00_arc0.dds  method: copy  source:  - name: remastered\arc\weapon\w13aq00.arc\JP_w13aq00_arc0.dds- name: remastered\arc\weapon\w13aq00.arc\JP_w13aq00_arc1.dds  method: copy  source:  - name: remastered\arc\weapon\w13aq00.arc\JP_w13aq00_arc1.dds- name: remastered\arc\weapon\w13aq00.arc\JP_w13aq00_arc2.dds  method: copy  source:  - name: remastered\arc\weapon\w13aq00.arc\JP_w13aq00_arc2.dds- name: remastered\arc\weapon\w13te00.arc\JP_w13te00_arc0.dds  method: copy  source:  - name: remastered\arc\weapon\w13te00.arc\JP_w13te00_arc0.dds- name: remastered\arc\weapon\w13te00.arc\JP_w13te00_arc1.dds  method: copy  source:  - name: remastered\arc\weapon\w13te00.arc\JP_w13te00_arc1.dds- name: remastered\arc\weapon\w13te00.arc\JP_w13te00_arc2.dds  method: copy  source:  - name: remastered\arc\weapon\w13te00.arc\JP_w13te00_arc2.dds- name: remastered\arc\weapon\w14aq00.arc\JP_w14aq00_arc0.dds  method: copy  source:  - name: remastered\arc\weapon\w14aq00.arc\JP_w14aq00_arc0.dds- name: remastered\arc\weapon\w14aq00.arc\JP_w14aq00_arc1.dds  method: copy  source:  - name: remastered\arc\weapon\w14aq00.arc\JP_w14aq00_arc1.dds- name: remastered\arc\weapon\w14aq00.arc\JP_w14aq00_arc2.dds  method: copy  source:  - name: remastered\arc\weapon\w14aq00.arc\JP_w14aq00_arc2.dds- name: remastered\arc\weapon\w14te00.arc\JP_w14te00_arc0.dds  method: copy  source:  - name: remastered\arc\weapon\w14te00.arc\JP_w14te00_arc0.dds- name: remastered\arc\weapon\w14te00.arc\JP_w14te00_arc1.dds  method: copy  source:  - name: remastered\arc\weapon\w14te00.arc\JP_w14te00_arc1.dds- name: remastered\arc\weapon\w14te00.arc\JP_w14te00_arc2.dds  method: copy  source:  - name: remastered\arc\weapon\w14te00.arc\JP_w14te00_arc2.dds- name: remastered\arc\weapon\w14ve00.arc\JP_w14ve00_arc0.dds  method: copy  source:  - name: remastered\arc\weapon\w14ve00.arc\JP_w14ve00_arc0.dds- name: remastered\arc\weapon\w14ve00.arc\JP_w14ve00_arc1.dds  method: copy  source:  - name: remastered\arc\weapon\w14ve00.arc\JP_w14ve00_arc1.dds- name: remastered\arc\weapon\w14ve00.arc\JP_w14ve00_arc2.dds  method: copy  source:  - name: remastered\arc\weapon\w14ve00.arc\JP_w14ve00_arc2.dds- name: remastered\arc\weapon\w15ve00.arc\JP_w15ve00_arc0.dds  method: copy  source:  - name: remastered\arc\weapon\w15ve00.arc\JP_w15ve00_arc0.dds- name: remastered\arc\weapon\w15ve00.arc\JP_w15ve00_arc1.dds  method: copy  source:  - name: remastered\arc\weapon\w15ve00.arc\JP_w15ve00_arc1.dds- name: remastered\arc\weapon\w15ve00.arc\JP_w15ve00_arc2.dds  method: copy  source:  - name: remastered\arc\weapon\w15ve00.arc\JP_w15ve00_arc2.dds- name: remastered\arc\weapon\w16aq00.arc\JP_w16aq00_arc0.dds  method: copy  source:  - name: remastered\arc\weapon\w16aq00.arc\JP_w16aq00_arc0.dds- name: remastered\arc\weapon\w16ex10.arc\JP_w16ex10_arc0.dds  method: copy  source:  - name: remastered\arc\weapon\w16ex10.arc\JP_w16ex10_arc0.dds- name: remastered\arc\weapon\w16ex10.arc\JP_w16ex10_arc1.dds  method: copy  source:  - name: remastered\arc\weapon\w16ex10.arc\JP_w16ex10_arc1.dds- name: remastered\arc\weapon\w16te00.arc\JP_w16te00_arc0.dds  method: copy  source:  - name: remastered\arc\weapon\w16te00.arc\JP_w16te00_arc0.dds- name: remastered\arc\weapon\w16ve00.arc\JP_w16ve00_arc0.dds  method: copy  source:  - name: remastered\arc\weapon\w16ve00.arc\JP_w16ve00_arc0.dds- name: remastered\arc\weapon\w17aq00.arc\JP_w17aq00_arc0.dds  method: copy  source:  - name: remastered\arc\weapon\w17aq00.arc\JP_w17aq00_arc0.dds- name: remastered\arc\weapon\w17ex10.arc\JP_w17ex10_arc0.dds  method: copy  source:  - name: remastered\arc\weapon\w17ex10.arc\JP_w17ex10_arc0.dds- name: remastered\arc\weapon\w17ex10.arc\JP_w17ex10_arc1.dds  method: copy  source:  - name: remastered\arc\weapon\w17ex10.arc\JP_w17ex10_arc1.dds- name: remastered\arc\weapon\w17te00.arc\JP_w17te00_arc0.dds  method: copy  source:  - name: remastered\arc\weapon\w17te00.arc\JP_w17te00_arc0.dds- name: remastered\arc\weapon\w17ve00.arc\JP_w17ve00_arc0.dds  method: copy  source:  - name: remastered\arc\weapon\w17ve00.arc\JP_w17ve00_arc0.dds- name: remastered\arc\weapon\w18aq00.arc\JP_w18aq00_arc0.dds  method: copy  source:  - name: remastered\arc\weapon\w18aq00.arc\JP_w18aq00_arc0.dds- name: remastered\arc\weapon\w18ex10.arc\JP_w18ex10_arc0.dds  method: copy  source:  - name: remastered\arc\weapon\w18ex10.arc\JP_w18ex10_arc0.dds- name: remastered\arc\weapon\w18te00.arc\JP_w18te00_arc0.dds  method: copy  source:  - name: remastered\arc\weapon\w18te00.arc\JP_w18te00_arc0.dds- name: remastered\arc\weapon\w18ve00.arc\JP_w18ve00_arc0.dds  method: copy  source:  - name: remastered\arc\weapon\w18ve00.arc\JP_w18ve00_arc0.dds- name: remastered\arc\weapon\w19aq00.arc\JP_w19aq00_arc0.dds  method: copy  source:  - name: remastered\arc\weapon\w19aq00.arc\JP_w19aq00_arc0.dds- name: remastered\arc\weapon\w19aq00.arc\JP_w19aq00_arc1.dds  method: copy  source:  - name: remastered\arc\weapon\w19aq00.arc\JP_w19aq00_arc1.dds- name: remastered\arc\weapon\w19aq00.arc\JP_w19aq00_arc2.dds  method: copy  source:  - name: remastered\arc\weapon\w19aq00.arc\JP_w19aq00_arc2.dds- name: remastered\item\Tm2\it0001.tm2\-0.dds  method: copy  source:  - name: remastered\item\Tm2\it0001.tm2\-0.dds- name: remastered\item\Tm2\it0001s.tm2\-0.dds  method: copy  source:  - name: remastered\item\Tm2\it0001s.tm2\-0.dds- name: remastered\item\Tm2\it0002.tm2\-0.dds  method: copy  source:  - name: remastered\item\Tm2\it0002.tm2\-0.dds- name: remastered\item\Tm2\it0002s.tm2\-0.dds  method: copy  source:  - name: remastered\item\Tm2\it0002s.tm2\-0.dds- name: remastered\item\Tm2\it0003.tm2\-0.dds  method: copy  source:  - name: remastered\item\Tm2\it0003.tm2\-0.dds- name: remastered\item\Tm2\it0003s.tm2\-0.dds  method: copy  source:  - name: remastered\item\Tm2\it0003s.tm2\-0.dds- name: remastered\item\Tm2\it0004.tm2\-0.dds  method: copy  source:  - name: remastered\item\Tm2\it0004.tm2\-0.dds- name: remastered\item\Tm2\it0004s.tm2\-0.dds  method: copy  source:  - name: remastered\item\Tm2\it0004s.tm2\-0.dds- name: remastered\item\Tm2\it0005.tm2\-0.dds  method: copy  source:  - name: remastered\item\Tm2\it0005.tm2\-0.dds- name: remastered\item\Tm2\it0005s.tm2\-0.dds  method: copy  source:  - name: remastered\item\Tm2\it0005s.tm2\-0.dds- name: remastered\item\Tm2\it0006.tm2\-0.dds  method: copy  source:  - name: remastered\item\Tm2\it0006.tm2\-0.dds- name: remastered\item\Tm2\it0006s.tm2\-0.dds  method: copy  source:  - name: remastered\item\Tm2\it0006s.tm2\-0.dds- name: remastered\item\Tm2\it0007.tm2\-0.dds  method: copy  source:  - name: remastered\item\Tm2\it0007.tm2\-0.dds- name: remastered\item\Tm2\it0007s.tm2\-0.dds  method: copy  source:  - name: remastered\item\Tm2\it0007s.tm2\-0.dds- name: remastered\item\Tm2\it0008.tm2\-0.dds  method: copy  source:  - name: remastered\item\Tm2\it0008.tm2\-0.dds- name: remastered\item\Tm2\it0008s.tm2\-0.dds  method: copy  source:  - name: remastered\item\Tm2\it0008s.tm2\-0.dds- name: remastered\item\Tm2\it0009.tm2\-0.dds  method: copy  source:  - name: remastered\item\Tm2\it0009.tm2\-0.dds- name: remastered\item\Tm2\it0009s.tm2\-0.dds  method: copy  source:  - name: remastered\item\Tm2\it0009s.tm2\-0.dds- name: remastered\item\Tm2\it000a.tm2\-0.dds  method: copy  source:  - name: remastered\item\Tm2\it000a.tm2\-0.dds- name: remastered\item\Tm2\it000as.tm2\-0.dds  method: copy  source:  - name: remastered\item\Tm2\it000as.tm2\-0.dds- name: remastered\item\Tm2\it000b.tm2\-0.dds  method: copy  source:  - name: remastered\item\Tm2\it000b.tm2\-0.dds- name: remastered\item\Tm2\it000bs.tm2\-0.dds  method: copy  source:  - name: remastered\item\Tm2\it000bs.tm2\-0.dds- name: remastered\item\Tm2\it000c.tm2\-0.dds  method: copy  source:  - name: remastered\item\Tm2\it000c.tm2\-0.dds- name: remastered\item\Tm2\it000cs.tm2\-0.dds  method: copy  source:  - name: remastered\item\Tm2\it000cs.tm2\-0.dds- name: remastered\item\Tm2\it000d.tm2\-0.dds  method: copy  source:  - name: remastered\item\Tm2\it000d.tm2\-0.dds- name: remastered\item\Tm2\it000ds.tm2\-0.dds  method: copy  source:  - name: remastered\item\Tm2\it000ds.tm2\-0.dds- name: remastered\item\Tm2\it000e.tm2\-0.dds  method: copy  source:  - name: remastered\item\Tm2\it000e.tm2\-0.dds- name: remastered\item\Tm2\it000es.tm2\-0.dds  method: copy  source:  - name: remastered\item\Tm2\it000es.tm2\-0.dds- name: remastered\item\Tm2\it0010.tm2\-0.dds  method: copy  source:  - name: remastered\item\Tm2\it0010.tm2\-0.dds- name: remastered\item\Tm2\it0010s.tm2\-0.dds  method: copy  source:  - name: remastered\item\Tm2\it0010s.tm2\-0.dds- name: remastered\item\Tm2\it0011.tm2\-0.dds  method: copy  source:  - name: remastered\item\Tm2\it0011.tm2\-0.dds- name: remastered\item\Tm2\it0011s.tm2\-0.dds  method: copy  source:  - name: remastered\item\Tm2\it0011s.tm2\-0.dds- name: remastered\item\Tm2\it0012.tm2\-0.dds  method: copy  source:  - name: remastered\item\Tm2\it0012.tm2\-0.dds- name: remastered\item\Tm2\it0012s.tm2\-0.dds  method: copy  source:  - name: remastered\item\Tm2\it0012s.tm2\-0.dds- name: remastered\item\Tm2\it0100.tm2\-0.dds  method: copy  source:  - name: remastered\item\Tm2\it0100.tm2\-0.dds- name: remastered\item\Tm2\it0100s.tm2\-0.dds  method: copy  source:  - name: remastered\item\Tm2\it0100s.tm2\-0.dds- name: remastered\item\Tm2\it0101.tm2\-0.dds  method: copy  source:  - name: remastered\item\Tm2\it0101.tm2\-0.dds- name: remastered\item\Tm2\it0101s.tm2\-0.dds  method: copy  source:  - name: remastered\item\Tm2\it0101s.tm2\-0.dds- name: remastered\item\Tm2\it0102.tm2\-0.dds  method: copy  source:  - name: remastered\item\Tm2\it0102.tm2\-0.dds- name: remastered\item\Tm2\it0102s.tm2\-0.dds  method: copy  source:  - name: remastered\item\Tm2\it0102s.tm2\-0.dds- name: remastered\item\Tm2\it0103.tm2\-0.dds  method: copy  source:  - name: remastered\item\Tm2\it0103.tm2\-0.dds- name: remastered\item\Tm2\it0103s.tm2\-0.dds  method: copy  source:  - name: remastered\item\Tm2\it0103s.tm2\-0.dds- name: remastered\item\Tm2\it0104.tm2\-0.dds  method: copy  source:  - name: remastered\item\Tm2\it0104.tm2\-0.dds- name: remastered\item\Tm2\it0104s.tm2\-0.dds  method: copy  source:  - name: remastered\item\Tm2\it0104s.tm2\-0.dds- name: remastered\item\Tm2\it0105.tm2\-0.dds  method: copy  source:  - name: remastered\item\Tm2\it0105.tm2\-0.dds- name: remastered\item\Tm2\it0105s.tm2\-0.dds  method: copy  source:  - name: remastered\item\Tm2\it0105s.tm2\-0.dds- name: remastered\item\Tm2\it0106.tm2\-0.dds  method: copy  source:  - name: remastered\item\Tm2\it0106.tm2\-0.dds- name: remastered\item\Tm2\it0106s.tm2\-0.dds  method: copy  source:  - name: remastered\item\Tm2\it0106s.tm2\-0.dds- name: remastered\item\Tm2\it0107.tm2\-0.dds  method: copy  source:  - name: remastered\item\Tm2\it0107.tm2\-0.dds- name: remastered\item\Tm2\it0107s.tm2\-0.dds  method: copy  source:  - name: remastered\item\Tm2\it0107s.tm2\-0.dds- name: remastered\item\Tm2\it0108.tm2\-0.dds  method: copy  source:  - name: remastered\item\Tm2\it0108.tm2\-0.dds- name: remastered\item\Tm2\it0108s.tm2\-0.dds  method: copy  source:  - name: remastered\item\Tm2\it0108s.tm2\-0.dds- name: remastered\item\Tm2\it0109.tm2\-0.dds  method: copy  source:  - name: remastered\item\Tm2\it0109.tm2\-0.dds- name: remastered\item\Tm2\it0109s.tm2\-0.dds  method: copy  source:  - name: remastered\item\Tm2\it0109s.tm2\-0.dds- name: remastered\item\Tm2\it010a.tm2\-0.dds  method: copy  source:  - name: remastered\item\Tm2\it010a.tm2\-0.dds- name: remastered\item\Tm2\it010as.tm2\-0.dds  method: copy  source:  - name: remastered\item\Tm2\it010as.tm2\-0.dds- name: remastered\item\Tm2\it010b.tm2\-0.dds  method: copy  source:  - name: remastered\item\Tm2\it010b.tm2\-0.dds- name: remastered\item\Tm2\it010bs.tm2\-0.dds  method: copy  source:  - name: remastered\item\Tm2\it010bs.tm2\-0.dds- name: remastered\item\Tm2\it010c.tm2\-0.dds  method: copy  source:  - name: remastered\item\Tm2\it010c.tm2\-0.dds- name: remastered\item\Tm2\it010cs.tm2\-0.dds  method: copy  source:  - name: remastered\item\Tm2\it010cs.tm2\-0.dds- name: remastered\item\Tm2\it0110.tm2\-0.dds  method: copy  source:  - name: remastered\item\Tm2\it0110.tm2\-0.dds- name: remastered\item\Tm2\it0110s.tm2\-0.dds  method: copy  source:  - name: remastered\item\Tm2\it0110s.tm2\-0.dds- name: remastered\item\Tm2\it0111.tm2\-0.dds  method: copy  source:  - name: remastered\item\Tm2\it0111.tm2\-0.dds- name: remastered\item\Tm2\it0111s.tm2\-0.dds  method: copy  source:  - name: remastered\item\Tm2\it0111s.tm2\-0.dds- name: remastered\item\Tm2\it0112.tm2\-0.dds  method: copy  source:  - name: remastered\item\Tm2\it0112.tm2\-0.dds- name: remastered\item\Tm2\it0112s.tm2\-0.dds  method: copy  source:  - name: remastered\item\Tm2\it0112s.tm2\-0.dds- name: remastered\item\Tm2\it0200.tm2\-0.dds  method: copy  source:  - name: remastered\item\Tm2\it0200.tm2\-0.dds- name: remastered\item\Tm2\it0200s.tm2\-0.dds  method: copy  source:  - name: remastered\item\Tm2\it0200s.tm2\-0.dds- name: remastered\item\Tm2\it0201.tm2\-0.dds  method: copy  source:  - name: remastered\item\Tm2\it0201.tm2\-0.dds- name: remastered\item\Tm2\it0201s.tm2\-0.dds  method: copy  source:  - name: remastered\item\Tm2\it0201s.tm2\-0.dds- name: remastered\item\Tm2\it0202.tm2\-0.dds  method: copy  source:  - name: remastered\item\Tm2\it0202.tm2\-0.dds- name: remastered\item\Tm2\it0202s.tm2\-0.dds  method: copy  source:  - name: remastered\item\Tm2\it0202s.tm2\-0.dds- name: remastered\item\Tm2\it0203.tm2\-0.dds  method: copy  source:  - name: remastered\item\Tm2\it0203.tm2\-0.dds- name: remastered\item\Tm2\it0203s.tm2\-0.dds  method: copy  source:  - name: remastered\item\Tm2\it0203s.tm2\-0.dds- name: remastered\item\Tm2\it0204.tm2\-0.dds  method: copy  source:  - name: remastered\item\Tm2\it0204.tm2\-0.dds- name: remastered\item\Tm2\it0204s.tm2\-0.dds  method: copy  source:  - name: remastered\item\Tm2\it0204s.tm2\-0.dds- name: remastered\item\Tm2\it0205.tm2\-0.dds  method: copy  source:  - name: remastered\item\Tm2\it0205.tm2\-0.dds- name: remastered\item\Tm2\it0205s.tm2\-0.dds  method: copy  source:  - name: remastered\item\Tm2\it0205s.tm2\-0.dds- name: remastered\item\Tm2\it0206.tm2\-0.dds  method: copy  source:  - name: remastered\item\Tm2\it0206.tm2\-0.dds- name: remastered\item\Tm2\it0206s.tm2\-0.dds  method: copy  source:  - name: remastered\item\Tm2\it0206s.tm2\-0.dds- name: remastered\item\Tm2\it0207.tm2\-0.dds  method: copy  source:  - name: remastered\item\Tm2\it0207.tm2\-0.dds- name: remastered\item\Tm2\it0207s.tm2\-0.dds  method: copy  source:  - name: remastered\item\Tm2\it0207s.tm2\-0.dds- name: remastered\item\Tm2\it0208.tm2\-0.dds  method: copy  source:  - name: remastered\item\Tm2\it0208.tm2\-0.dds- name: remastered\item\Tm2\it0208s.tm2\-0.dds  method: copy  source:  - name: remastered\item\Tm2\it0208s.tm2\-0.dds- name: remastered\item\Tm2\it0209.tm2\-0.dds  method: copy  source:  - name: remastered\item\Tm2\it0209.tm2\-0.dds- name: remastered\item\Tm2\it0209s.tm2\-0.dds  method: copy  source:  - name: remastered\item\Tm2\it0209s.tm2\-0.dds- name: remastered\item\Tm2\it020a.tm2\-0.dds  method: copy  source:  - name: remastered\item\Tm2\it020a.tm2\-0.dds- name: remastered\item\Tm2\it020as.tm2\-0.dds  method: copy  source:  - name: remastered\item\Tm2\it020as.tm2\-0.dds- name: remastered\item\Tm2\it020b.tm2\-0.dds  method: copy  source:  - name: remastered\item\Tm2\it020b.tm2\-0.dds- name: remastered\item\Tm2\it020bs.tm2\-0.dds  method: copy  source:  - name: remastered\item\Tm2\it020bs.tm2\-0.dds- name: remastered\item\Tm2\it020c.tm2\-0.dds  method: copy  source:  - name: remastered\item\Tm2\it020c.tm2\-0.dds- name: remastered\item\Tm2\it020cs.tm2\-0.dds  method: copy  source:  - name: remastered\item\Tm2\it020cs.tm2\-0.dds- name: remastered\item\Tm2\it0210.tm2\-0.dds  method: copy  source:  - name: remastered\item\Tm2\it0210.tm2\-0.dds- name: remastered\item\Tm2\it0210s.tm2\-0.dds  method: copy  source:  - name: remastered\item\Tm2\it0210s.tm2\-0.dds- name: remastered\item\Tm2\it0211.tm2\-0.dds  method: copy  source:  - name: remastered\item\Tm2\it0211.tm2\-0.dds- name: remastered\item\Tm2\it0211s.tm2\-0.dds  method: copy  source:  - name: remastered\item\Tm2\it0211s.tm2\-0.dds- name: remastered\item\Tm2\it0212.tm2\-0.dds  method: copy  source:  - name: remastered\item\Tm2\it0212.tm2\-0.dds- name: remastered\item\Tm2\it0212s.tm2\-0.dds  method: copy  source:  - name: remastered\item\Tm2\it0212s.tm2\-0.dds- name: remastered\item\Tm2\it0213.tm2\-0.dds  method: copy  source:  - name: remastered\item\Tm2\it0213.tm2\-0.dds- name: remastered\item\Tm2\it0213s.tm2\-0.dds  method: copy  source:  - name: remastered\item\Tm2\it0213s.tm2\-0.dds- name: sound\win\se\weapon\se0501.win32.scd  method: copy  source:  - name: sound\win\se\weapon\se0501.win32.scd- name: sound\win\se\weapon\se0521.win32.scd  method: copy  source:  - name: sound\win\se\weapon\se0521.win32.scd- name: sound\win\se\weapon\se0541.win32.scd  method: copy  source:  - name: sound\win\se\weapon\se0541.win32.scd- name: remastered\chara\weapon\w01aq\00\w01aq00.pmo\-0.dds  method: copy  source:  - name: remastered\chara\weapon\w01aq\00\w01aq00.pmo\-0.dds- name: remastered\chara\weapon\w01aq\10\w01aq10.pmo\-0.dds  method: copy  source:  - name: remastered\chara\weapon\w01aq\10\w01aq10.pmo\-0.dds- name: remastered\chara\weapon\w01te\00\w01te00.pmo\-0.dds  method: copy  source:  - name: remastered\chara\weapon\w01te\00\w01te00.pmo\-0.dds- name: remastered\chara\weapon\w01te\10\w01te10.pmo\-0.dds  method: copy  source:  - name: remastered\chara\weapon\w01te\10\w01te10.pmo\-0.dds- name: remastered\chara\weapon\w01ve\00\w01ve00.pmo\-0.dds  method: copy  source:  - name: remastered\chara\weapon\w01ve\00\w01ve00.pmo\-0.dds- name: remastered\chara\weapon\w01ve\01\w01ve01.pmo\-0.dds  method: copy  source:  - name: remastered\chara\weapon\w01ve\01\w01ve01.pmo\-0.dds- name: remastered\chara\weapon\w01ve\10\w01ve10.pmo\-0.dds  method: copy  source:  - name: remastered\chara\weapon\w01ve\10\w01ve10.pmo\-0.dds- name: remastered\chara\weapon\w01ve\11\w01ve11.pmo\-0.dds  method: copy  source:  - name: remastered\chara\weapon\w01ve\11\w01ve11.pmo\-0.dds- name: remastered\chara\weapon\w02aq\00\w02aq00.pmo\-0.dds  method: copy  source:  - name: remastered\chara\weapon\w02aq\00\w02aq00.pmo\-0.dds- name: remastered\chara\weapon\w02ex\10\w02ex10.pmo\-0.dds  method: copy  source:  - name: remastered\chara\weapon\w02ex\10\w02ex10.pmo\-0.dds- name: remastered\chara\weapon\w02ex\11\w02ex11.pmo\-0.dds  method: copy  source:  - name: remastered\chara\weapon\w02ex\11\w02ex11.pmo\-0.dds- name: remastered\chara\weapon\w02te\00\w02te00.pmo\-0.dds  method: copy  source:  - name: remastered\chara\weapon\w02te\00\w02te00.pmo\-0.dds- name: remastered\chara\weapon\w02ve\00\w02ve00.pmo\-0.dds  method: copy  source:  - name: remastered\chara\weapon\w02ve\00\w02ve00.pmo\-0.dds- name: remastered\chara\weapon\w02ve\01\w02ve01.pmo\-0.dds  method: copy  source:  - name: remastered\chara\weapon\w02ve\01\w02ve01.pmo\-0.dds- name: remastered\chara\weapon\w03aq\00\w03aq00.pmo\-0.dds  method: copy  source:  - name: remastered\chara\weapon\w03aq\00\w03aq00.pmo\-0.dds- name: remastered\chara\weapon\w03ex\10\w03ex10.pmo\-0.dds  method: copy  source:  - name: remastered\chara\weapon\w03ex\10\w03ex10.pmo\-0.dds- name: remastered\chara\weapon\w03ex\11\w03ex11.pmo\-0.dds  method: copy  source:  - name: remastered\chara\weapon\w03ex\11\w03ex11.pmo\-0.dds- name: remastered\chara\weapon\w03te\00\w03te00.pmo\-0.dds  method: copy  source:  - name: remastered\chara\weapon\w03te\00\w03te00.pmo\-0.dds- name: remastered\chara\weapon\w03ve\00\w03ve00.pmo\-0.dds  method: copy  source:  - name: remastered\chara\weapon\w03ve\00\w03ve00.pmo\-0.dds- name: remastered\chara\weapon\w03ve\01\w03ve01.pmo\-0.dds  method: copy  source:  - name: remastered\chara\weapon\w03ve\01\w03ve01.pmo\-0.dds- name: remastered\chara\weapon\w04aq\00\w04aq00.pmo\-0.dds  method: copy  source:  - name: remastered\chara\weapon\w04aq\00\w04aq00.pmo\-0.dds- name: remastered\chara\weapon\w04ex\10\w04ex10.pmo\-0.dds  method: copy  source:  - name: remastered\chara\weapon\w04ex\10\w04ex10.pmo\-0.dds- name: remastered\chara\weapon\w04ex\11\w04ex11.pmo\-0.dds  method: copy  source:  - name: remastered\chara\weapon\w04ex\11\w04ex11.pmo\-0.dds- name: remastered\chara\weapon\w04te\00\w04te00.pmo\-0.dds  method: copy  source:  - name: remastered\chara\weapon\w04te\00\w04te00.pmo\-0.dds- name: remastered\chara\weapon\w04ve\00\w04ve00.pmo\-0.dds  method: copy  source:  - name: remastered\chara\weapon\w04ve\00\w04ve00.pmo\-0.dds- name: remastered\chara\weapon\w04ve\01\w04ve01.pmo\-0.dds  method: copy  source:  - name: remastered\chara\weapon\w04ve\01\w04ve01.pmo\-0.dds- name: remastered\chara\weapon\w05aq\00\w05aq00.pmo\-0.dds  method: copy  source:  - name: remastered\chara\weapon\w05aq\00\w05aq00.pmo\-0.dds- name: remastered\chara\weapon\w05ex\10\w05ex10.pmo\-0.dds  method: copy  source:  - name: remastered\chara\weapon\w05ex\10\w05ex10.pmo\-0.dds- name: remastered\chara\weapon\w05ex\11\w05ex11.pmo\-0.dds  method: copy  source:  - name: remastered\chara\weapon\w05ex\11\w05ex11.pmo\-0.dds- name: remastered\chara\weapon\w05te\00\w05te00.pmo\-0.dds  method: copy  source:  - name: remastered\chara\weapon\w05te\00\w05te00.pmo\-0.dds- name: remastered\chara\weapon\w05ve\00\w05ve00.pmo\-0.dds  method: copy  source:  - name: remastered\chara\weapon\w05ve\00\w05ve00.pmo\-0.dds- name: remastered\chara\weapon\w05ve\01\w05ve01.pmo\-0.dds  method: copy  source:  - name: remastered\chara\weapon\w05ve\01\w05ve01.pmo\-0.dds- name: remastered\chara\weapon\w06aq\00\w06aq00.pmo\-0.dds  method: copy  source:  - name: remastered\chara\weapon\w06aq\00\w06aq00.pmo\-0.dds- name: remastered\chara\weapon\w06ex\10\w06ex10.pmo\-0.dds  method: copy  source:  - name: remastered\chara\weapon\w06ex\10\w06ex10.pmo\-0.dds- name: remastered\chara\weapon\w06ex\11\w06ex11.pmo\-0.dds  method: copy  source:  - name: remastered\chara\weapon\w06ex\11\w06ex11.pmo\-0.dds- name: remastered\chara\weapon\w06te\00\w06te00.pmo\-0.dds  method: copy  source:  - name: remastered\chara\weapon\w06te\00\w06te00.pmo\-0.dds- name: remastered\chara\weapon\w06ve\00\w06ve00.pmo\-0.dds  method: copy  source:  - name: remastered\chara\weapon\w06ve\00\w06ve00.pmo\-0.dds- name: remastered\chara\weapon\w06ve\01\w06ve01.pmo\-0.dds  method: copy  source:  - name: remastered\chara\weapon\w06ve\01\w06ve01.pmo\-0.dds- name: remastered\chara\weapon\w07aq\00\w07aq00.pmo\-0.dds  method: copy  source:  - name: remastered\chara\weapon\w07aq\00\w07aq00.pmo\-0.dds- name: remastered\chara\weapon\w07ex\10\w07ex10.pmo\-0.dds  method: copy  source:  - name: remastered\chara\weapon\w07ex\10\w07ex10.pmo\-0.dds- name: remastered\chara\weapon\w07ex\11\w07ex11.pmo\-0.dds  method: copy  source:  - name: remastered\chara\weapon\w07ex\11\w07ex11.pmo\-0.dds- name: remastered\chara\weapon\w07te\00\w07te00.pmo\-0.dds  method: copy  source:  - name: remastered\chara\weapon\w07te\00\w07te00.pmo\-0.dds- name: remastered\chara\weapon\w07ve\00\w07ve00.pmo\-0.dds  method: copy  source:  - name: remastered\chara\weapon\w07ve\00\w07ve00.pmo\-0.dds- name: remastered\chara\weapon\w07ve\01\w07ve01.pmo\-0.dds  method: copy  source:  - name: remastered\chara\weapon\w07ve\01\w07ve01.pmo\-0.dds- name: remastered\chara\weapon\w09aq\00\w09aq00.pmo\-0.dds  method: copy  source:  - name: remastered\chara\weapon\w09aq\00\w09aq00.pmo\-0.dds- name: remastered\chara\weapon\w09ex\10\w09ex10.pmo\-0.dds  method: copy  source:  - name: remastered\chara\weapon\w09ex\10\w09ex10.pmo\-0.dds- name: remastered\chara\weapon\w09ex\11\w09ex11.pmo\-0.dds  method: copy  source:  - name: remastered\chara\weapon\w09ex\11\w09ex11.pmo\-0.dds- name: remastered\chara\weapon\w09te\00\w09te00.pmo\-0.dds  method: copy  source:  - name: remastered\chara\weapon\w09te\00\w09te00.pmo\-0.dds- name: remastered\chara\weapon\w09ve\00\w09ve00.pmo\-0.dds  method: copy  source:  - name: remastered\chara\weapon\w09ve\00\w09ve00.pmo\-0.dds- name: remastered\chara\weapon\w09ve\01\w09ve01.pmo\-0.dds  method: copy  source:  - name: remastered\chara\weapon\w09ve\01\w09ve01.pmo\-0.dds- name: remastered\chara\weapon\w10aq\00\w10aq00.pmo\-0.dds  method: copy  source:  - name: remastered\chara\weapon\w10aq\00\w10aq00.pmo\-0.dds- name: remastered\chara\weapon\w10ex\10\w10ex10.pmo\-0.dds  method: copy  source:  - name: remastered\chara\weapon\w10ex\10\w10ex10.pmo\-0.dds- name: remastered\chara\weapon\w10ex\11\w10ex11.pmo\-0.dds  method: copy  source:  - name: remastered\chara\weapon\w10ex\11\w10ex11.pmo\-0.dds- name: remastered\chara\weapon\w10te\00\w10te00.pmo\-0.dds  method: copy  source:  - name: remastered\chara\weapon\w10te\00\w10te00.pmo\-0.dds- name: remastered\chara\weapon\w10ve\00\w10ve00.pmo\-0.dds  method: copy  source:  - name: remastered\chara\weapon\w10ve\00\w10ve00.pmo\-0.dds- name: remastered\chara\weapon\w10ve\01\w10ve01.pmo\-0.dds  method: copy  source:  - name: remastered\chara\weapon\w10ve\01\w10ve01.pmo\-0.dds- name: remastered\chara\weapon\w11aq\00\w11aq00.pmo\-0.dds  method: copy  source:  - name: remastered\chara\weapon\w11aq\00\w11aq00.pmo\-0.dds- name: remastered\chara\weapon\w11ex\10\w11ex10.pmo\-0.dds  method: copy  source:  - name: remastered\chara\weapon\w11ex\10\w11ex10.pmo\-0.dds- name: remastered\chara\weapon\w11ex\11\w11ex11.pmo\-0.dds  method: copy  source:  - name: remastered\chara\weapon\w11ex\11\w11ex11.pmo\-0.dds- name: remastered\chara\weapon\w11te\00\w11te00.pmo\-0.dds  method: copy  source:  - name: remastered\chara\weapon\w11te\00\w11te00.pmo\-0.dds- name: remastered\chara\weapon\w11ve\00\w11ve00.pmo\-0.dds  method: copy  source:  - name: remastered\chara\weapon\w11ve\00\w11ve00.pmo\-0.dds- name: remastered\chara\weapon\w11ve\01\w11ve01.pmo\-0.dds  method: copy  source:  - name: remastered\chara\weapon\w11ve\01\w11ve01.pmo\-0.dds- name: remastered\chara\weapon\w12aq\00\w12aq00.pmo\-0.dds  method: copy  source:  - name: remastered\chara\weapon\w12aq\00\w12aq00.pmo\-0.dds- name: remastered\chara\weapon\w12aq\10\w12aq10.pmo\-0.dds  method: copy  source:  - name: remastered\chara\weapon\w12aq\10\w12aq10.pmo\-0.dds- name: remastered\chara\weapon\w12te\00\w12te00.pmo\-0.dds  method: copy  source:  - name: remastered\chara\weapon\w12te\00\w12te00.pmo\-0.dds- name: remastered\chara\weapon\w12te\10\w12te10.pmo\-0.dds  method: copy  source:  - name: remastered\chara\weapon\w12te\10\w12te10.pmo\-0.dds- name: remastered\chara\weapon\w13aq\00\w13aq00.pmo\-0.dds  method: copy  source:  - name: remastered\chara\weapon\w13aq\00\w13aq00.pmo\-0.dds- name: remastered\chara\weapon\w13aq\10\w13aq10.pmo\-0.dds  method: copy  source:  - name: remastered\chara\weapon\w13aq\10\w13aq10.pmo\-0.dds- name: remastered\chara\weapon\w13te\00\w13te00.pmo\-0.dds  method: copy  source:  - name: remastered\chara\weapon\w13te\00\w13te00.pmo\-0.dds- name: remastered\chara\weapon\w13te\10\w13te10.pmo\-0.dds  method: copy  source:  - name: remastered\chara\weapon\w13te\10\w13te10.pmo\-0.dds- name: remastered\chara\weapon\w14aq\00\w14aq00.pmo\-0.dds  method: copy  source:  - name: remastered\chara\weapon\w14aq\00\w14aq00.pmo\-0.dds- name: remastered\chara\weapon\w14aq\10\w14aq10.pmo\-0.dds  method: copy  source:  - name: remastered\chara\weapon\w14aq\10\w14aq10.pmo\-0.dds- name: remastered\chara\weapon\w14te\00\w14te00.pmo\-0.dds  method: copy  source:  - name: remastered\chara\weapon\w14te\00\w14te00.pmo\-0.dds- name: remastered\chara\weapon\w14te\10\w14te10.pmo\-0.dds  method: copy  source:  - name: remastered\chara\weapon\w14te\10\w14te10.pmo\-0.dds- name: remastered\chara\weapon\w14ve\00\w14ve00.pmo\-0.dds  method: copy  source:  - name: remastered\chara\weapon\w14ve\00\w14ve00.pmo\-0.dds- name: remastered\chara\weapon\w14ve\01\w14ve01.pmo\-0.dds  method: copy  source:  - name: remastered\chara\weapon\w14ve\01\w14ve01.pmo\-0.dds- name: remastered\chara\weapon\w14ve\10\w14ve10.pmo\-0.dds  method: copy  source:  - name: remastered\chara\weapon\w14ve\10\w14ve10.pmo\-0.dds- name: remastered\chara\weapon\w14ve\11\w14ve11.pmo\-0.dds  method: copy  source:  - name: remastered\chara\weapon\w14ve\11\w14ve11.pmo\-0.dds- name: remastered\chara\weapon\w15ve\00\w15ve00.pmo\-0.dds  method: copy  source:  - name: remastered\chara\weapon\w15ve\00\w15ve00.pmo\-0.dds- name: remastered\chara\weapon\w15ve\01\w15ve01.pmo\-0.dds  method: copy  source:  - name: remastered\chara\weapon\w15ve\01\w15ve01.pmo\-0.dds- name: remastered\chara\weapon\w15ve\10\w15ve10.pmo\-0.dds  method: copy  source:  - name: remastered\chara\weapon\w15ve\10\w15ve10.pmo\-0.dds- name: remastered\chara\weapon\w15ve\11\w15ve11.pmo\-0.dds  method: copy  source:  - name: remastered\chara\weapon\w15ve\11\w15ve11.pmo\-0.dds- name: remastered\chara\weapon\w16aq\00\w16aq00.pmo\-0.dds  method: copy  source:  - name: remastered\chara\weapon\w16aq\00\w16aq00.pmo\-0.dds- name: remastered\chara\weapon\w16ex\10\w16ex10.pmo\-0.dds  method: copy  source:  - name: remastered\chara\weapon\w16ex\10\w16ex10.pmo\-0.dds- name: remastered\chara\weapon\w16ex\11\w16ex11.pmo\-0.dds  method: copy  source:  - name: remastered\chara\weapon\w16ex\11\w16ex11.pmo\-0.dds- name: remastered\chara\weapon\w16te\00\w16te00.pmo\-0.dds  method: copy  source:  - name: remastered\chara\weapon\w16te\00\w16te00.pmo\-0.dds- name: remastered\chara\weapon\w16ve\00\w16ve00.pmo\-0.dds  method: copy  source:  - name: remastered\chara\weapon\w16ve\00\w16ve00.pmo\-0.dds- name: remastered\chara\weapon\w16ve\01\w16ve01.pmo\-0.dds  method: copy  source:  - name: remastered\chara\weapon\w16ve\01\w16ve01.pmo\-0.dds- name: remastered\chara\weapon\w17aq\00\w17aq00.pmo\-0.dds  method: copy  source:  - name: remastered\chara\weapon\w17aq\00\w17aq00.pmo\-0.dds- name: remastered\chara\weapon\w17ex\10\w17ex10.pmo\-0.dds  method: copy  source:  - name: remastered\chara\weapon\w17ex\10\w17ex10.pmo\-0.dds- name: remastered\chara\weapon\w17ex\11\w17ex11.pmo\-0.dds  method: copy  source:  - name: remastered\chara\weapon\w17ex\11\w17ex11.pmo\-0.dds- name: remastered\chara\weapon\w17te\00\w17te00.pmo\-0.dds  method: copy  source:  - name: remastered\chara\weapon\w17te\00\w17te00.pmo\-0.dds- name: remastered\chara\weapon\w17ve\00\w17ve00.pmo\-0.dds  method: copy  source:  - name: remastered\chara\weapon\w17ve\00\w17ve00.pmo\-0.dds- name: remastered\chara\weapon\w17ve\01\w17ve01.pmo\-0.dds  method: copy  source:  - name: remastered\chara\weapon\w17ve\01\w17ve01.pmo\-0.dds- name: remastered\chara\weapon\w18aq\00\w18aq00.pmo\-0.dds  method: copy  source:  - name: remastered\chara\weapon\w18aq\00\w18aq00.pmo\-0.dds- name: remastered\chara\weapon\w18ex\10\w18ex10.pmo\-0.dds  method: copy  source:  - name: remastered\chara\weapon\w18ex\10\w18ex10.pmo\-0.dds- name: remastered\chara\weapon\w18ex\11\w18ex11.pmo\-0.dds  method: copy  source:  - name: remastered\chara\weapon\w18ex\11\w18ex11.pmo\-0.dds- name: remastered\chara\weapon\w18te\00\w18te00.pmo\-0.dds  method: copy  source:  - name: remastered\chara\weapon\w18te\00\w18te00.pmo\-0.dds- name: remastered\chara\weapon\w18ve\00\w18ve00.pmo\-0.dds  method: copy  source:  - name: remastered\chara\weapon\w18ve\00\w18ve00.pmo\-0.dds- name: remastered\chara\weapon\w18ve\01\w18ve01.pmo\-0.dds  method: copy  source:  - name: remastered\chara\weapon\w18ve\01\w18ve01.pmo\-0.dds- name: remastered\chara\weapon\w19aq\00\w19aq00.pmo\-0.dds  method: copy  source:  - name: remastered\chara\weapon\w19aq\00\w19aq00.pmo\-0.dds- name: remastered\chara\weapon\w19aq\10\w19aq10.pmo\-0.dds  method: copy  source:  - name: remastered\chara\weapon\w19aq\10\w19aq10.pmo\-0.dds
+title: Kingdom Hearts II Keyblade Pack
+originalAuthor: Kité & Absolutely_Subarashii
+description: This will change all 24 Keyblades from Kingdom Hearts Birth by Sleep Final Mix [PC] into all 24 Keyblades from Kingdom Hearts II. Compatible with all Languages. Changes collision, particle, swing, hit effects. Also changes the text and stats to the one from Kingdom Hearts II. (Edge of Ultima as Bonus) In order to have the corrects stats and Keychain positions, Run the Patcher inside "openkh/mods/_PATCHER". To restore your Original BBS exe, Run the Patcher again.
+assets:
+- name: arc\pc_aqua\shopMdlAq.arc
+  method: copy
+  source:
+  - name: arc\pc_aqua\shopMdlAq.arc
+- name: arc\pc_ven\shopMdlVe.arc
+  method: copy
+  source:
+  - name: arc\pc_ven\shopMdlVe.arc
+- name: arc\weapon\w01aq00.arc
+  method: copy
+  source:
+  - name: arc\weapon\w01aq00.arc
+- name: arc\weapon\w01te00.arc
+  method: copy
+  source:
+  - name: arc\weapon\w01te00.arc
+- name: arc\weapon\w01ve00.arc
+  method: copy
+  source:
+  - name: arc\weapon\w01ve00.arc
+- name: arc\weapon\w02aq00.arc
+  method: copy
+  source:
+  - name: arc\weapon\w02aq00.arc
+- name: arc\weapon\w02ex10.arc
+  method: copy
+  source:
+  - name: arc\weapon\w02ex10.arc
+- name: arc\weapon\w02te00.arc
+  method: copy
+  source:
+  - name: arc\weapon\w02te00.arc
+- name: arc\weapon\w02ve00.arc
+  method: copy
+  source:
+  - name: arc\weapon\w02ve00.arc
+- name: arc\weapon\w03aq00.arc
+  method: copy
+  source:
+  - name: arc\weapon\w03aq00.arc
+- name: arc\weapon\w03ex10.arc
+  method: copy
+  source:
+  - name: arc\weapon\w03ex10.arc
+- name: arc\weapon\w03te00.arc
+  method: copy
+  source:
+  - name: arc\weapon\w03te00.arc
+- name: arc\weapon\w03ve00.arc
+  method: copy
+  source:
+  - name: arc\weapon\w03ve00.arc
+- name: arc\weapon\w04aq00.arc
+  method: copy
+  source:
+  - name: arc\weapon\w04aq00.arc
+- name: arc\weapon\w04ex10.arc
+  method: copy
+  source:
+  - name: arc\weapon\w04ex10.arc
+- name: arc\weapon\w04te00.arc
+  method: copy
+  source:
+  - name: arc\weapon\w04te00.arc
+- name: arc\weapon\w04ve00.arc
+  method: copy
+  source:
+  - name: arc\weapon\w04ve00.arc
+- name: arc\weapon\w05aq00.arc
+  method: copy
+  source:
+  - name: arc\weapon\w05aq00.arc
+- name: arc\weapon\w05ex10.arc
+  method: copy
+  source:
+  - name: arc\weapon\w05ex10.arc
+- name: arc\weapon\w05te00.arc
+  method: copy
+  source:
+  - name: arc\weapon\w05te00.arc
+- name: arc\weapon\w05ve00.arc
+  method: copy
+  source:
+  - name: arc\weapon\w05ve00.arc
+- name: arc\weapon\w06aq00.arc
+  method: copy
+  source:
+  - name: arc\weapon\w06aq00.arc
+- name: arc\weapon\w06ex10.arc
+  method: copy
+  source:
+  - name: arc\weapon\w06ex10.arc
+- name: arc\weapon\w06te00.arc
+  method: copy
+  source:
+  - name: arc\weapon\w06te00.arc
+- name: arc\weapon\w06ve00.arc
+  method: copy
+  source:
+  - name: arc\weapon\w06ve00.arc
+- name: arc\weapon\w07aq00.arc
+  method: copy
+  source:
+  - name: arc\weapon\w07aq00.arc
+- name: arc\weapon\w07ex10.arc
+  method: copy
+  source:
+  - name: arc\weapon\w07ex10.arc
+- name: arc\weapon\w07te00.arc
+  method: copy
+  source:
+  - name: arc\weapon\w07te00.arc
+- name: arc\weapon\w07ve00.arc
+  method: copy
+  source:
+  - name: arc\weapon\w07ve00.arc
+- name: arc\weapon\w09aq00.arc
+  method: copy
+  source:
+  - name: arc\weapon\w09aq00.arc
+- name: arc\weapon\w09ex10.arc
+  method: copy
+  source:
+  - name: arc\weapon\w09ex10.arc
+- name: arc\weapon\w09te00.arc
+  method: copy
+  source:
+  - name: arc\weapon\w09te00.arc
+- name: arc\weapon\w09ve00.arc
+  method: copy
+  source:
+  - name: arc\weapon\w09ve00.arc
+- name: arc\weapon\w10aq00.arc
+  method: copy
+  source:
+  - name: arc\weapon\w10aq00.arc
+- name: arc\weapon\w10ex10.arc
+  method: copy
+  source:
+  - name: arc\weapon\w10ex10.arc
+- name: arc\weapon\w10te00.arc
+  method: copy
+  source:
+  - name: arc\weapon\w10te00.arc
+- name: arc\weapon\w10ve00.arc
+  method: copy
+  source:
+  - name: arc\weapon\w10ve00.arc
+- name: arc\weapon\w11aq00.arc
+  method: copy
+  source:
+  - name: arc\weapon\w11aq00.arc
+- name: arc\weapon\w11ex10.arc
+  method: copy
+  source:
+  - name: arc\weapon\w11ex10.arc
+- name: arc\weapon\w11te00.arc
+  method: copy
+  source:
+  - name: arc\weapon\w11te00.arc
+- name: arc\weapon\w11ve00.arc
+  method: copy
+  source:
+  - name: arc\weapon\w11ve00.arc
+- name: arc\weapon\w12aq00.arc
+  method: copy
+  source:
+  - name: arc\weapon\w12aq00.arc
+- name: arc\weapon\w12te00.arc
+  method: copy
+  source:
+  - name: arc\weapon\w12te00.arc
+- name: arc\weapon\w12ve00.arc
+  method: copy
+  source:
+  - name: arc\weapon\w12ve00.arc
+- name: arc\weapon\w13aq00.arc
+  method: copy
+  source:
+  - name: arc\weapon\w13aq00.arc
+- name: arc\weapon\w13te00.arc
+  method: copy
+  source:
+  - name: arc\weapon\w13te00.arc
+- name: arc\weapon\w14aq00.arc
+  method: copy
+  source:
+  - name: arc\weapon\w14aq00.arc
+- name: arc\weapon\w14te00.arc
+  method: copy
+  source:
+  - name: arc\weapon\w14te00.arc
+- name: arc\weapon\w14ve00.arc
+  method: copy
+  source:
+  - name: arc\weapon\w14ve00.arc
+- name: arc\weapon\w15ve00.arc
+  method: copy
+  source:
+  - name: arc\weapon\w15ve00.arc
+- name: arc\weapon\w16aq00.arc
+  method: copy
+  source:
+  - name: arc\weapon\w16aq00.arc
+- name: arc\weapon\w16ex10.arc
+  method: copy
+  source:
+  - name: arc\weapon\w16ex10.arc
+- name: arc\weapon\w16te00.arc
+  method: copy
+  source:
+  - name: arc\weapon\w16te00.arc
+- name: arc\weapon\w16ve00.arc
+  method: copy
+  source:
+  - name: arc\weapon\w16ve00.arc
+- name: arc\weapon\w17aq00.arc
+  method: copy
+  source:
+  - name: arc\weapon\w17aq00.arc
+- name: arc\weapon\w17ex10.arc
+  method: copy
+  source:
+  - name: arc\weapon\w17ex10.arc
+- name: arc\weapon\w17te00.arc
+  method: copy
+  source:
+  - name: arc\weapon\w17te00.arc
+- name: arc\weapon\w17ve00.arc
+  method: copy
+  source:
+  - name: arc\weapon\w17ve00.arc
+- name: arc\weapon\w18aq00.arc
+  method: copy
+  source:
+  - name: arc\weapon\w18aq00.arc
+- name: arc\weapon\w18ex10.arc
+  method: copy
+  source:
+  - name: arc\weapon\w18ex10.arc
+- name: arc\weapon\w18te00.arc
+  method: copy
+  source:
+  - name: arc\weapon\w18te00.arc
+- name: arc\weapon\w18ve00.arc
+  method: copy
+  source:
+  - name: arc\weapon\w18ve00.arc
+- name: arc\weapon\w19aq00.arc
+  method: copy
+  source:
+  - name: arc\weapon\w19aq00.arc
+- name: message\de\system\CTit000.ctd
+  method: copy
+  source:
+  - name: message\de\system\CTit000.ctd
+- name: message\en\system\CTit000.ctd
+  method: copy
+  source:
+  - name: message\en\system\CTit000.ctd
+- name: message\es\system\CTit000.ctd
+  method: copy
+  source:
+  - name: message\es\system\CTit000.ctd
+- name: message\fr\system\CTit000.ctd
+  method: copy
+  source:
+  - name: message\fr\system\CTit000.ctd
+- name: message\it\system\CTit000.ctd
+  method: copy
+  source:
+  - name: message\it\system\CTit000.ctd
+- name: chara\weapon\w01aq\00\w01aq00.pmo
+  method: copy
+  source:
+  - name: chara\weapon\w01aq\00\w01aq00.pmo
+- name: chara\weapon\w01aq\0s\w01aq0s.pmo
+  method: copy
+  source:
+  - name: chara\weapon\w01aq\0s\w01aq0s.pmo
+- name: chara\weapon\w01aq\10\w01aq10.pmo
+  method: copy
+  source:
+  - name: chara\weapon\w01aq\10\w01aq10.pmo
+- name: chara\weapon\w01te\00\w01te00.pmo
+  method: copy
+  source:
+  - name: chara\weapon\w01te\00\w01te00.pmo
+- name: chara\weapon\w01te\0s\w01te0s.pmo
+  method: copy
+  source:
+  - name: chara\weapon\w01te\0s\w01te0s.pmo
+- name: chara\weapon\w01te\10\w01te10.pmo
+  method: copy
+  source:
+  - name: chara\weapon\w01te\10\w01te10.pmo
+- name: chara\weapon\w01ve\00\w01ve00.pmo
+  method: copy
+  source:
+  - name: chara\weapon\w01ve\00\w01ve00.pmo
+- name: chara\weapon\w01ve\0s\w01ve0s.pmo
+  method: copy
+  source:
+  - name: chara\weapon\w01ve\0s\w01ve0s.pmo
+- name: chara\weapon\w01ve\10\w01ve10.pmo
+  method: copy
+  source:
+  - name: chara\weapon\w01ve\10\w01ve10.pmo
+- name: chara\weapon\w02aq\00\w02aq00.pmo
+  method: copy
+  source:
+  - name: chara\weapon\w02aq\00\w02aq00.pmo
+- name: chara\weapon\w02aq\0s\w02aq0s.pmo
+  method: copy
+  source:
+  - name: chara\weapon\w02aq\0s\w02aq0s.pmo
+- name: chara\weapon\w02ex\10\w02ex10.pmo
+  method: copy
+  source:
+  - name: chara\weapon\w02ex\10\w02ex10.pmo
+- name: chara\weapon\w02te\00\w02te00.pmo
+  method: copy
+  source:
+  - name: chara\weapon\w02te\00\w02te00.pmo
+- name: chara\weapon\w02te\0s\w02te0s.pmo
+  method: copy
+  source:
+  - name: chara\weapon\w02te\0s\w02te0s.pmo
+- name: chara\weapon\w02ve\00\w02ve00.pmo
+  method: copy
+  source:
+  - name: chara\weapon\w02ve\00\w02ve00.pmo
+- name: chara\weapon\w02ve\0s\w02ve0s.pmo
+  method: copy
+  source:
+  - name: chara\weapon\w02ve\0s\w02ve0s.pmo
+- name: chara\weapon\w03aq\00\w03aq00.pmo
+  method: copy
+  source:
+  - name: chara\weapon\w03aq\00\w03aq00.pmo
+- name: chara\weapon\w03aq\0s\w03aq0s.pmo
+  method: copy
+  source:
+  - name: chara\weapon\w03aq\0s\w03aq0s.pmo
+- name: chara\weapon\w03ex\10\w03ex10.pmo
+  method: copy
+  source:
+  - name: chara\weapon\w03ex\10\w03ex10.pmo
+- name: chara\weapon\w03te\00\w03te00.pmo
+  method: copy
+  source:
+  - name: chara\weapon\w03te\00\w03te00.pmo
+- name: chara\weapon\w03te\0s\w03te0s.pmo
+  method: copy
+  source:
+  - name: chara\weapon\w03te\0s\w03te0s.pmo
+- name: chara\weapon\w03ve\00\w03ve00.pmo
+  method: copy
+  source:
+  - name: chara\weapon\w03ve\00\w03ve00.pmo
+- name: chara\weapon\w03ve\0s\w03ve0s.pmo
+  method: copy
+  source:
+  - name: chara\weapon\w03ve\0s\w03ve0s.pmo
+- name: chara\weapon\w04aq\00\w04aq00.pmo
+  method: copy
+  source:
+  - name: chara\weapon\w04aq\00\w04aq00.pmo
+- name: chara\weapon\w04aq\0s\w04aq0s.pmo
+  method: copy
+  source:
+  - name: chara\weapon\w04aq\0s\w04aq0s.pmo
+- name: chara\weapon\w04ex\10\w04ex10.pmo
+  method: copy
+  source:
+  - name: chara\weapon\w04ex\10\w04ex10.pmo
+- name: chara\weapon\w04te\00\w04te00.pmo
+  method: copy
+  source:
+  - name: chara\weapon\w04te\00\w04te00.pmo
+- name: chara\weapon\w04te\0s\w04te0s.pmo
+  method: copy
+  source:
+  - name: chara\weapon\w04te\0s\w04te0s.pmo
+- name: chara\weapon\w04ve\00\w04ve00.pmo
+  method: copy
+  source:
+  - name: chara\weapon\w04ve\00\w04ve00.pmo
+- name: chara\weapon\w04ve\0s\w04ve0s.pmo
+  method: copy
+  source:
+  - name: chara\weapon\w04ve\0s\w04ve0s.pmo
+- name: chara\weapon\w05aq\00\w05aq00.pmo
+  method: copy
+  source:
+  - name: chara\weapon\w05aq\00\w05aq00.pmo
+- name: chara\weapon\w05aq\0s\w05aq0s.pmo
+  method: copy
+  source:
+  - name: chara\weapon\w05aq\0s\w05aq0s.pmo
+- name: chara\weapon\w05ex\10\w05ex10.pmo
+  method: copy
+  source:
+  - name: chara\weapon\w05ex\10\w05ex10.pmo
+- name: chara\weapon\w05te\00\w05te00.pmo
+  method: copy
+  source:
+  - name: chara\weapon\w05te\00\w05te00.pmo
+- name: chara\weapon\w05te\0s\w05te0s.pmo
+  method: copy
+  source:
+  - name: chara\weapon\w05te\0s\w05te0s.pmo
+- name: chara\weapon\w05ve\00\w05ve00.pmo
+  method: copy
+  source:
+  - name: chara\weapon\w05ve\00\w05ve00.pmo
+- name: chara\weapon\w05ve\0s\w05ve0s.pmo
+  method: copy
+  source:
+  - name: chara\weapon\w05ve\0s\w05ve0s.pmo
+- name: chara\weapon\w06aq\00\w06aq00.pmo
+  method: copy
+  source:
+  - name: chara\weapon\w06aq\00\w06aq00.pmo
+- name: chara\weapon\w06aq\0s\w06aq0s.pmo
+  method: copy
+  source:
+  - name: chara\weapon\w06aq\0s\w06aq0s.pmo
+- name: chara\weapon\w06ex\10\w06ex10.pmo
+  method: copy
+  source:
+  - name: chara\weapon\w06ex\10\w06ex10.pmo
+- name: chara\weapon\w06te\00\w06te00.pmo
+  method: copy
+  source:
+  - name: chara\weapon\w06te\00\w06te00.pmo
+- name: chara\weapon\w06te\0s\w06te0s.pmo
+  method: copy
+  source:
+  - name: chara\weapon\w06te\0s\w06te0s.pmo
+- name: chara\weapon\w06ve\00\w06ve00.pmo
+  method: copy
+  source:
+  - name: chara\weapon\w06ve\00\w06ve00.pmo
+- name: chara\weapon\w06ve\0s\w06ve0s.pmo
+  method: copy
+  source:
+  - name: chara\weapon\w06ve\0s\w06ve0s.pmo
+- name: chara\weapon\w07aq\00\w07aq00.pmo
+  method: copy
+  source:
+  - name: chara\weapon\w07aq\00\w07aq00.pmo
+- name: chara\weapon\w07aq\0s\w07aq0s.pmo
+  method: copy
+  source:
+  - name: chara\weapon\w07aq\0s\w07aq0s.pmo
+- name: chara\weapon\w07ex\10\w07ex10.pmo
+  method: copy
+  source:
+  - name: chara\weapon\w07ex\10\w07ex10.pmo
+- name: chara\weapon\w07te\00\w07te00.pmo
+  method: copy
+  source:
+  - name: chara\weapon\w07te\00\w07te00.pmo
+- name: chara\weapon\w07te\0s\w07te0s.pmo
+  method: copy
+  source:
+  - name: chara\weapon\w07te\0s\w07te0s.pmo
+- name: chara\weapon\w07ve\00\w07ve00.pmo
+  method: copy
+  source:
+  - name: chara\weapon\w07ve\00\w07ve00.pmo
+- name: chara\weapon\w07ve\0s\w07ve0s.pmo
+  method: copy
+  source:
+  - name: chara\weapon\w07ve\0s\w07ve0s.pmo
+- name: chara\weapon\w09aq\00\w09aq00.pmo
+  method: copy
+  source:
+  - name: chara\weapon\w09aq\00\w09aq00.pmo
+- name: chara\weapon\w09aq\0s\w09aq0s.pmo
+  method: copy
+  source:
+  - name: chara\weapon\w09aq\0s\w09aq0s.pmo
+- name: chara\weapon\w09ex\10\w09ex10.pmo
+  method: copy
+  source:
+  - name: chara\weapon\w09ex\10\w09ex10.pmo
+- name: chara\weapon\w09te\00\w09te00.pmo
+  method: copy
+  source:
+  - name: chara\weapon\w09te\00\w09te00.pmo
+- name: chara\weapon\w09te\0s\w09te0s.pmo
+  method: copy
+  source:
+  - name: chara\weapon\w09te\0s\w09te0s.pmo
+- name: chara\weapon\w09ve\00\w09ve00.pmo
+  method: copy
+  source:
+  - name: chara\weapon\w09ve\00\w09ve00.pmo
+- name: chara\weapon\w09ve\0s\w09ve0s.pmo
+  method: copy
+  source:
+  - name: chara\weapon\w09ve\0s\w09ve0s.pmo
+- name: chara\weapon\w10aq\00\w10aq00.pmo
+  method: copy
+  source:
+  - name: chara\weapon\w10aq\00\w10aq00.pmo
+- name: chara\weapon\w10aq\0s\w10aq0s.pmo
+  method: copy
+  source:
+  - name: chara\weapon\w10aq\0s\w10aq0s.pmo
+- name: chara\weapon\w10ex\10\w10ex10.pmo
+  method: copy
+  source:
+  - name: chara\weapon\w10ex\10\w10ex10.pmo
+- name: chara\weapon\w10te\00\w10te00.pmo
+  method: copy
+  source:
+  - name: chara\weapon\w10te\00\w10te00.pmo
+- name: chara\weapon\w10te\0s\w10te0s.pmo
+  method: copy
+  source:
+  - name: chara\weapon\w10te\0s\w10te0s.pmo
+- name: chara\weapon\w10ve\00\w10ve00.pmo
+  method: copy
+  source:
+  - name: chara\weapon\w10ve\00\w10ve00.pmo
+- name: chara\weapon\w10ve\0s\w10ve0s.pmo
+  method: copy
+  source:
+  - name: chara\weapon\w10ve\0s\w10ve0s.pmo
+- name: chara\weapon\w11aq\00\w11aq00.pmo
+  method: copy
+  source:
+  - name: chara\weapon\w11aq\00\w11aq00.pmo
+- name: chara\weapon\w11aq\0s\w11aq0s.pmo
+  method: copy
+  source:
+  - name: chara\weapon\w11aq\0s\w11aq0s.pmo
+- name: chara\weapon\w11ex\10\w11ex10.pmo
+  method: copy
+  source:
+  - name: chara\weapon\w11ex\10\w11ex10.pmo
+- name: chara\weapon\w11te\00\w11te00.pmo
+  method: copy
+  source:
+  - name: chara\weapon\w11te\00\w11te00.pmo
+- name: chara\weapon\w11te\0s\w11te0s.pmo
+  method: copy
+  source:
+  - name: chara\weapon\w11te\0s\w11te0s.pmo
+- name: chara\weapon\w11ve\00\w11ve00.pmo
+  method: copy
+  source:
+  - name: chara\weapon\w11ve\00\w11ve00.pmo
+- name: chara\weapon\w11ve\0s\w11ve0s.pmo
+  method: copy
+  source:
+  - name: chara\weapon\w11ve\0s\w11ve0s.pmo
+- name: chara\weapon\w12aq\00\w12aq00.pmo
+  method: copy
+  source:
+  - name: chara\weapon\w12aq\00\w12aq00.pmo
+- name: chara\weapon\w12aq\0s\w12aq0s.pmo
+  method: copy
+  source:
+  - name: chara\weapon\w12aq\0s\w12aq0s.pmo
+- name: chara\weapon\w12aq\10\w12aq10.pmo
+  method: copy
+  source:
+  - name: chara\weapon\w12aq\10\w12aq10.pmo
+- name: chara\weapon\w12te\00\w12te00.pmo
+  method: copy
+  source:
+  - name: chara\weapon\w12te\00\w12te00.pmo
+- name: chara\weapon\w12te\0s\w12te0s.pmo
+  method: copy
+  source:
+  - name: chara\weapon\w12te\0s\w12te0s.pmo
+- name: chara\weapon\w12te\10\w12te10.pmo
+  method: copy
+  source:
+  - name: chara\weapon\w12te\10\w12te10.pmo
+- name: chara\weapon\w12ve\00\w12ve00.pmo
+  method: copy
+  source:
+  - name: chara\weapon\w12ve\00\w12ve00.pmo
+- name: chara\weapon\w12ve\0s\w12ve0s.pmo
+  method: copy
+  source:
+  - name: chara\weapon\w12ve\0s\w12ve0s.pmo
+- name: chara\weapon\w12ve\10\w12ve10.pmo
+  method: copy
+  source:
+  - name: chara\weapon\w12ve\10\w12ve10.pmo
+- name: chara\weapon\w13aq\00\w13aq00.pmo
+  method: copy
+  source:
+  - name: chara\weapon\w13aq\00\w13aq00.pmo
+- name: chara\weapon\w13aq\0s\w13aq0s.pmo
+  method: copy
+  source:
+  - name: chara\weapon\w13aq\0s\w13aq0s.pmo
+- name: chara\weapon\w13aq\10\w13aq10.pmo
+  method: copy
+  source:
+  - name: chara\weapon\w13aq\10\w13aq10.pmo
+- name: chara\weapon\w13aq\1s\w13aq1s.pmo
+  method: copy
+  source:
+  - name: chara\weapon\w13aq\1s\w13aq1s.pmo
+- name: chara\weapon\w13te\00\w13te00.pmo
+  method: copy
+  source:
+  - name: chara\weapon\w13te\00\w13te00.pmo
+- name: chara\weapon\w13te\0s\w13te0s.pmo
+  method: copy
+  source:
+  - name: chara\weapon\w13te\0s\w13te0s.pmo
+- name: chara\weapon\w13te\10\w13te10.pmo
+  method: copy
+  source:
+  - name: chara\weapon\w13te\10\w13te10.pmo
+- name: chara\weapon\w14aq\00\w14aq00.pmo
+  method: copy
+  source:
+  - name: chara\weapon\w14aq\00\w14aq00.pmo
+- name: chara\weapon\w14aq\0s\w14aq0s.pmo
+  method: copy
+  source:
+  - name: chara\weapon\w14aq\0s\w14aq0s.pmo
+- name: chara\weapon\w14aq\10\w14aq10.pmo
+  method: copy
+  source:
+  - name: chara\weapon\w14aq\10\w14aq10.pmo
+- name: chara\weapon\w14te\00\w14te00.pmo
+  method: copy
+  source:
+  - name: chara\weapon\w14te\00\w14te00.pmo
+- name: chara\weapon\w14te\0s\w14te0s.pmo
+  method: copy
+  source:
+  - name: chara\weapon\w14te\0s\w14te0s.pmo
+- name: chara\weapon\w14te\10\w14te10.pmo
+  method: copy
+  source:
+  - name: chara\weapon\w14te\10\w14te10.pmo
+- name: chara\weapon\w14ve\00\w14ve00.pmo
+  method: copy
+  source:
+  - name: chara\weapon\w14ve\00\w14ve00.pmo
+- name: chara\weapon\w14ve\0s\w14ve0s.pmo
+  method: copy
+  source:
+  - name: chara\weapon\w14ve\0s\w14ve0s.pmo
+- name: chara\weapon\w14ve\10\w14ve10.pmo
+  method: copy
+  source:
+  - name: chara\weapon\w14ve\10\w14ve10.pmo
+- name: chara\weapon\w15ve\00\w15ve00.pmo
+  method: copy
+  source:
+  - name: chara\weapon\w15ve\00\w15ve00.pmo
+- name: chara\weapon\w15ve\0s\w15ve0s.pmo
+  method: copy
+  source:
+  - name: chara\weapon\w15ve\0s\w15ve0s.pmo
+- name: chara\weapon\w15ve\10\w15ve10.pmo
+  method: copy
+  source:
+  - name: chara\weapon\w15ve\10\w15ve10.pmo
+- name: chara\weapon\w16aq\00\w16aq00.pmo
+  method: copy
+  source:
+  - name: chara\weapon\w16aq\00\w16aq00.pmo
+- name: chara\weapon\w16aq\0s\w16aq0s.pmo
+  method: copy
+  source:
+  - name: chara\weapon\w16aq\0s\w16aq0s.pmo
+- name: chara\weapon\w16ex\10\w16ex10.pmo
+  method: copy
+  source:
+  - name: chara\weapon\w16ex\10\w16ex10.pmo
+- name: chara\weapon\w16te\00\w16te00.pmo
+  method: copy
+  source:
+  - name: chara\weapon\w16te\00\w16te00.pmo
+- name: chara\weapon\w16te\0s\w16te0s.pmo
+  method: copy
+  source:
+  - name: chara\weapon\w16te\0s\w16te0s.pmo
+- name: chara\weapon\w16ve\00\w16ve00.pmo
+  method: copy
+  source:
+  - name: chara\weapon\w16ve\00\w16ve00.pmo
+- name: chara\weapon\w16ve\0s\w16ve0s.pmo
+  method: copy
+  source:
+  - name: chara\weapon\w16ve\0s\w16ve0s.pmo
+- name: chara\weapon\w17aq\00\w17aq00.pmo
+  method: copy
+  source:
+  - name: chara\weapon\w17aq\00\w17aq00.pmo
+- name: chara\weapon\w17aq\0s\w17aq0s.pmo
+  method: copy
+  source:
+  - name: chara\weapon\w17aq\0s\w17aq0s.pmo
+- name: chara\weapon\w17ex\10\w17ex10.pmo
+  method: copy
+  source:
+  - name: chara\weapon\w17ex\10\w17ex10.pmo
+- name: chara\weapon\w17te\00\w17te00.pmo
+  method: copy
+  source:
+  - name: chara\weapon\w17te\00\w17te00.pmo
+- name: chara\weapon\w17te\0s\w17te0s.pmo
+  method: copy
+  source:
+  - name: chara\weapon\w17te\0s\w17te0s.pmo
+- name: chara\weapon\w17ve\00\w17ve00.pmo
+  method: copy
+  source:
+  - name: chara\weapon\w17ve\00\w17ve00.pmo
+- name: chara\weapon\w17ve\0s\w17ve0s.pmo
+  method: copy
+  source:
+  - name: chara\weapon\w17ve\0s\w17ve0s.pmo
+- name: chara\weapon\w18aq\00\w18aq00.pmo
+  method: copy
+  source:
+  - name: chara\weapon\w18aq\00\w18aq00.pmo
+- name: chara\weapon\w18aq\0s\w18aq0s.pmo
+  method: copy
+  source:
+  - name: chara\weapon\w18aq\0s\w18aq0s.pmo
+- name: chara\weapon\w18ex\10\w18ex10.pmo
+  method: copy
+  source:
+  - name: chara\weapon\w18ex\10\w18ex10.pmo
+- name: chara\weapon\w18te\00\w18te00.pmo
+  method: copy
+  source:
+  - name: chara\weapon\w18te\00\w18te00.pmo
+- name: chara\weapon\w18te\0s\w18te0s.pmo
+  method: copy
+  source:
+  - name: chara\weapon\w18te\0s\w18te0s.pmo
+- name: chara\weapon\w18ve\00\w18ve00.pmo
+  method: copy
+  source:
+  - name: chara\weapon\w18ve\00\w18ve00.pmo
+- name: chara\weapon\w18ve\0s\w18ve0s.pmo
+  method: copy
+  source:
+  - name: chara\weapon\w18ve\0s\w18ve0s.pmo
+- name: chara\weapon\w19aq\00\w19aq00.pmo
+  method: copy
+  source:
+  - name: chara\weapon\w19aq\00\w19aq00.pmo
+- name: chara\weapon\w19aq\0s\w19aq0s.pmo
+  method: copy
+  source:
+  - name: chara\weapon\w19aq\0s\w19aq0s.pmo
+- name: chara\weapon\w19aq\10\w19aq10.pmo
+  method: copy
+  source:
+  - name: chara\weapon\w19aq\10\w19aq10.pmo
+- name: remastered\arc\weapon\w01aq00.arc\JP_w01aq00_arc0.dds
+  method: copy
+  source:
+  - name: remastered\arc\weapon\w01aq00.arc\JP_w01aq00_arc0.dds
+- name: remastered\arc\weapon\w01aq00.arc\JP_w01aq00_arc1.dds
+  method: copy
+  source:
+  - name: remastered\arc\weapon\w01aq00.arc\JP_w01aq00_arc1.dds
+- name: remastered\arc\weapon\w01aq00.arc\JP_w01aq00_arc2.dds
+  method: copy
+  source:
+  - name: remastered\arc\weapon\w01aq00.arc\JP_w01aq00_arc2.dds
+- name: remastered\arc\weapon\w01te00.arc\JP_w01te00_arc0.dds
+  method: copy
+  source:
+  - name: remastered\arc\weapon\w01te00.arc\JP_w01te00_arc0.dds
+- name: remastered\arc\weapon\w01te00.arc\JP_w01te00_arc1.dds
+  method: copy
+  source:
+  - name: remastered\arc\weapon\w01te00.arc\JP_w01te00_arc1.dds
+- name: remastered\arc\weapon\w01te00.arc\JP_w01te00_arc2.dds
+  method: copy
+  source:
+  - name: remastered\arc\weapon\w01te00.arc\JP_w01te00_arc2.dds
+- name: remastered\arc\weapon\w01ve00.arc\JP_w01ve00_arc0.dds
+  method: copy
+  source:
+  - name: remastered\arc\weapon\w01ve00.arc\JP_w01ve00_arc0.dds
+- name: remastered\arc\weapon\w01ve00.arc\JP_w01ve00_arc1.dds
+  method: copy
+  source:
+  - name: remastered\arc\weapon\w01ve00.arc\JP_w01ve00_arc1.dds
+- name: remastered\arc\weapon\w01ve00.arc\JP_w01ve00_arc2.dds
+  method: copy
+  source:
+  - name: remastered\arc\weapon\w01ve00.arc\JP_w01ve00_arc2.dds
+- name: remastered\arc\weapon\w02aq00.arc\JP_w02aq00_arc0.dds
+  method: copy
+  source:
+  - name: remastered\arc\weapon\w02aq00.arc\JP_w02aq00_arc0.dds
+- name: remastered\arc\weapon\w02ex10.arc\JP_w02ex10_arc0.dds
+  method: copy
+  source:
+  - name: remastered\arc\weapon\w02ex10.arc\JP_w02ex10_arc0.dds
+- name: remastered\arc\weapon\w02ex10.arc\JP_w02ex10_arc1.dds
+  method: copy
+  source:
+  - name: remastered\arc\weapon\w02ex10.arc\JP_w02ex10_arc1.dds
+- name: remastered\arc\weapon\w02te00.arc\JP_w02te00_arc0.dds
+  method: copy
+  source:
+  - name: remastered\arc\weapon\w02te00.arc\JP_w02te00_arc0.dds
+- name: remastered\arc\weapon\w02ve00.arc\JP_w02ve00_arc0.dds
+  method: copy
+  source:
+  - name: remastered\arc\weapon\w02ve00.arc\JP_w02ve00_arc0.dds
+- name: remastered\arc\weapon\w03aq00.arc\JP_w03aq00_arc0.dds
+  method: copy
+  source:
+  - name: remastered\arc\weapon\w03aq00.arc\JP_w03aq00_arc0.dds
+- name: remastered\arc\weapon\w03ex10.arc\JP_w03ex10_arc0.dds
+  method: copy
+  source:
+  - name: remastered\arc\weapon\w03ex10.arc\JP_w03ex10_arc0.dds
+- name: remastered\arc\weapon\w03ex10.arc\JP_w03ex10_arc1.dds
+  method: copy
+  source:
+  - name: remastered\arc\weapon\w03ex10.arc\JP_w03ex10_arc1.dds
+- name: remastered\arc\weapon\w03te00.arc\JP_w03te00_arc0.dds
+  method: copy
+  source:
+  - name: remastered\arc\weapon\w03te00.arc\JP_w03te00_arc0.dds
+- name: remastered\arc\weapon\w03ve00.arc\JP_w03ve00_arc0.dds
+  method: copy
+  source:
+  - name: remastered\arc\weapon\w03ve00.arc\JP_w03ve00_arc0.dds
+- name: remastered\arc\weapon\w04aq00.arc\JP_w04aq00_arc0.dds
+  method: copy
+  source:
+  - name: remastered\arc\weapon\w04aq00.arc\JP_w04aq00_arc0.dds
+- name: remastered\arc\weapon\w04ex10.arc\JP_w04ex10_arc0.dds
+  method: copy
+  source:
+  - name: remastered\arc\weapon\w04ex10.arc\JP_w04ex10_arc0.dds
+- name: remastered\arc\weapon\w04ex10.arc\JP_w04ex10_arc1.dds
+  method: copy
+  source:
+  - name: remastered\arc\weapon\w04ex10.arc\JP_w04ex10_arc1.dds
+- name: remastered\arc\weapon\w04te00.arc\JP_w04te00_arc0.dds
+  method: copy
+  source:
+  - name: remastered\arc\weapon\w04te00.arc\JP_w04te00_arc0.dds
+- name: remastered\arc\weapon\w04ve00.arc\JP_w04ve00_arc0.dds
+  method: copy
+  source:
+  - name: remastered\arc\weapon\w04ve00.arc\JP_w04ve00_arc0.dds
+- name: remastered\arc\weapon\w05aq00.arc\JP_w05aq00_arc0.dds
+  method: copy
+  source:
+  - name: remastered\arc\weapon\w05aq00.arc\JP_w05aq00_arc0.dds
+- name: remastered\arc\weapon\w05ex10.arc\JP_w05ex10_arc0.dds
+  method: copy
+  source:
+  - name: remastered\arc\weapon\w05ex10.arc\JP_w05ex10_arc0.dds
+- name: remastered\arc\weapon\w05ex10.arc\JP_w05ex10_arc1.dds
+  method: copy
+  source:
+  - name: remastered\arc\weapon\w05ex10.arc\JP_w05ex10_arc1.dds
+- name: remastered\arc\weapon\w05te00.arc\JP_w05te00_arc0.dds
+  method: copy
+  source:
+  - name: remastered\arc\weapon\w05te00.arc\JP_w05te00_arc0.dds
+- name: remastered\arc\weapon\w05ve00.arc\JP_w05ve00_arc0.dds
+  method: copy
+  source:
+  - name: remastered\arc\weapon\w05ve00.arc\JP_w05ve00_arc0.dds
+- name: remastered\arc\weapon\w06aq00.arc\JP_w06aq00_arc0.dds
+  method: copy
+  source:
+  - name: remastered\arc\weapon\w06aq00.arc\JP_w06aq00_arc0.dds
+- name: remastered\arc\weapon\w06ex10.arc\JP_w06ex10_arc0.dds
+  method: copy
+  source:
+  - name: remastered\arc\weapon\w06ex10.arc\JP_w06ex10_arc0.dds
+- name: remastered\arc\weapon\w06ex10.arc\JP_w06ex10_arc1.dds
+  method: copy
+  source:
+  - name: remastered\arc\weapon\w06ex10.arc\JP_w06ex10_arc1.dds
+- name: remastered\arc\weapon\w06te00.arc\JP_w06te00_arc0.dds
+  method: copy
+  source:
+  - name: remastered\arc\weapon\w06te00.arc\JP_w06te00_arc0.dds
+- name: remastered\arc\weapon\w06ve00.arc\JP_w06ve00_arc0.dds
+  method: copy
+  source:
+  - name: remastered\arc\weapon\w06ve00.arc\JP_w06ve00_arc0.dds
+- name: remastered\arc\weapon\w07aq00.arc\JP_w07aq00_arc0.dds
+  method: copy
+  source:
+  - name: remastered\arc\weapon\w07aq00.arc\JP_w07aq00_arc0.dds
+- name: remastered\arc\weapon\w07ex10.arc\JP_w07ex10_arc0.dds
+  method: copy
+  source:
+  - name: remastered\arc\weapon\w07ex10.arc\JP_w07ex10_arc0.dds
+- name: remastered\arc\weapon\w07ex10.arc\JP_w07ex10_arc1.dds
+  method: copy
+  source:
+  - name: remastered\arc\weapon\w07ex10.arc\JP_w07ex10_arc1.dds
+- name: remastered\arc\weapon\w07te00.arc\JP_w07te00_arc0.dds
+  method: copy
+  source:
+  - name: remastered\arc\weapon\w07te00.arc\JP_w07te00_arc0.dds
+- name: remastered\arc\weapon\w07ve00.arc\JP_w07ve00_arc0.dds
+  method: copy
+  source:
+  - name: remastered\arc\weapon\w07ve00.arc\JP_w07ve00_arc0.dds
+- name: remastered\arc\weapon\w09aq00.arc\JP_w09aq00_arc0.dds
+  method: copy
+  source:
+  - name: remastered\arc\weapon\w09aq00.arc\JP_w09aq00_arc0.dds
+- name: remastered\arc\weapon\w09ex10.arc\JP_w09ex10_arc0.dds
+  method: copy
+  source:
+  - name: remastered\arc\weapon\w09ex10.arc\JP_w09ex10_arc0.dds
+- name: remastered\arc\weapon\w09ex10.arc\JP_w09ex10_arc1.dds
+  method: copy
+  source:
+  - name: remastered\arc\weapon\w09ex10.arc\JP_w09ex10_arc1.dds
+- name: remastered\arc\weapon\w09te00.arc\JP_w09te00_arc0.dds
+  method: copy
+  source:
+  - name: remastered\arc\weapon\w09te00.arc\JP_w09te00_arc0.dds
+- name: remastered\arc\weapon\w09ve00.arc\JP_w09ve00_arc0.dds
+  method: copy
+  source:
+  - name: remastered\arc\weapon\w09ve00.arc\JP_w09ve00_arc0.dds
+- name: remastered\arc\weapon\w10aq00.arc\JP_w10aq00_arc0.dds
+  method: copy
+  source:
+  - name: remastered\arc\weapon\w10aq00.arc\JP_w10aq00_arc0.dds
+- name: remastered\arc\weapon\w10ex10.arc\JP_w10ex10_arc0.dds
+  method: copy
+  source:
+  - name: remastered\arc\weapon\w10ex10.arc\JP_w10ex10_arc0.dds
+- name: remastered\arc\weapon\w10ex10.arc\JP_w10ex10_arc1.dds
+  method: copy
+  source:
+  - name: remastered\arc\weapon\w10ex10.arc\JP_w10ex10_arc1.dds
+- name: remastered\arc\weapon\w10te00.arc\JP_w10te00_arc0.dds
+  method: copy
+  source:
+  - name: remastered\arc\weapon\w10te00.arc\JP_w10te00_arc0.dds
+- name: remastered\arc\weapon\w10ve00.arc\JP_w10ve00_arc0.dds
+  method: copy
+  source:
+  - name: remastered\arc\weapon\w10ve00.arc\JP_w10ve00_arc0.dds
+- name: remastered\arc\weapon\w11aq00.arc\JP_w11aq00_arc0.dds
+  method: copy
+  source:
+  - name: remastered\arc\weapon\w11aq00.arc\JP_w11aq00_arc0.dds
+- name: remastered\arc\weapon\w11ex10.arc\JP_w11ex10_arc0.dds
+  method: copy
+  source:
+  - name: remastered\arc\weapon\w11ex10.arc\JP_w11ex10_arc0.dds
+- name: remastered\arc\weapon\w11ex10.arc\JP_w11ex10_arc1.dds
+  method: copy
+  source:
+  - name: remastered\arc\weapon\w11ex10.arc\JP_w11ex10_arc1.dds
+- name: remastered\arc\weapon\w11te00.arc\JP_w11te00_arc0.dds
+  method: copy
+  source:
+  - name: remastered\arc\weapon\w11te00.arc\JP_w11te00_arc0.dds
+- name: remastered\arc\weapon\w11ve00.arc\JP_w11ve00_arc0.dds
+  method: copy
+  source:
+  - name: remastered\arc\weapon\w11ve00.arc\JP_w11ve00_arc0.dds
+- name: remastered\arc\weapon\w12aq00.arc\JP_w12aq00_arc0.dds
+  method: copy
+  source:
+  - name: remastered\arc\weapon\w12aq00.arc\JP_w12aq00_arc0.dds
+- name: remastered\arc\weapon\w12aq00.arc\JP_w12aq00_arc1.dds
+  method: copy
+  source:
+  - name: remastered\arc\weapon\w12aq00.arc\JP_w12aq00_arc1.dds
+- name: remastered\arc\weapon\w12aq00.arc\JP_w12aq00_arc2.dds
+  method: copy
+  source:
+  - name: remastered\arc\weapon\w12aq00.arc\JP_w12aq00_arc2.dds
+- name: remastered\arc\weapon\w12te00.arc\JP_w12te00_arc0.dds
+  method: copy
+  source:
+  - name: remastered\arc\weapon\w12te00.arc\JP_w12te00_arc0.dds
+- name: remastered\arc\weapon\w12te00.arc\JP_w12te00_arc1.dds
+  method: copy
+  source:
+  - name: remastered\arc\weapon\w12te00.arc\JP_w12te00_arc1.dds
+- name: remastered\arc\weapon\w12te00.arc\JP_w12te00_arc2.dds
+  method: copy
+  source:
+  - name: remastered\arc\weapon\w12te00.arc\JP_w12te00_arc2.dds
+- name: remastered\arc\weapon\w13aq00.arc\JP_w13aq00_arc0.dds
+  method: copy
+  source:
+  - name: remastered\arc\weapon\w13aq00.arc\JP_w13aq00_arc0.dds
+- name: remastered\arc\weapon\w13aq00.arc\JP_w13aq00_arc1.dds
+  method: copy
+  source:
+  - name: remastered\arc\weapon\w13aq00.arc\JP_w13aq00_arc1.dds
+- name: remastered\arc\weapon\w13aq00.arc\JP_w13aq00_arc2.dds
+  method: copy
+  source:
+  - name: remastered\arc\weapon\w13aq00.arc\JP_w13aq00_arc2.dds
+- name: remastered\arc\weapon\w13te00.arc\JP_w13te00_arc0.dds
+  method: copy
+  source:
+  - name: remastered\arc\weapon\w13te00.arc\JP_w13te00_arc0.dds
+- name: remastered\arc\weapon\w13te00.arc\JP_w13te00_arc1.dds
+  method: copy
+  source:
+  - name: remastered\arc\weapon\w13te00.arc\JP_w13te00_arc1.dds
+- name: remastered\arc\weapon\w13te00.arc\JP_w13te00_arc2.dds
+  method: copy
+  source:
+  - name: remastered\arc\weapon\w13te00.arc\JP_w13te00_arc2.dds
+- name: remastered\arc\weapon\w14aq00.arc\JP_w14aq00_arc0.dds
+  method: copy
+  source:
+  - name: remastered\arc\weapon\w14aq00.arc\JP_w14aq00_arc0.dds
+- name: remastered\arc\weapon\w14aq00.arc\JP_w14aq00_arc1.dds
+  method: copy
+  source:
+  - name: remastered\arc\weapon\w14aq00.arc\JP_w14aq00_arc1.dds
+- name: remastered\arc\weapon\w14aq00.arc\JP_w14aq00_arc2.dds
+  method: copy
+  source:
+  - name: remastered\arc\weapon\w14aq00.arc\JP_w14aq00_arc2.dds
+- name: remastered\arc\weapon\w14te00.arc\JP_w14te00_arc0.dds
+  method: copy
+  source:
+  - name: remastered\arc\weapon\w14te00.arc\JP_w14te00_arc0.dds
+- name: remastered\arc\weapon\w14te00.arc\JP_w14te00_arc1.dds
+  method: copy
+  source:
+  - name: remastered\arc\weapon\w14te00.arc\JP_w14te00_arc1.dds
+- name: remastered\arc\weapon\w14te00.arc\JP_w14te00_arc2.dds
+  method: copy
+  source:
+  - name: remastered\arc\weapon\w14te00.arc\JP_w14te00_arc2.dds
+- name: remastered\arc\weapon\w14ve00.arc\JP_w14ve00_arc0.dds
+  method: copy
+  source:
+  - name: remastered\arc\weapon\w14ve00.arc\JP_w14ve00_arc0.dds
+- name: remastered\arc\weapon\w14ve00.arc\JP_w14ve00_arc1.dds
+  method: copy
+  source:
+  - name: remastered\arc\weapon\w14ve00.arc\JP_w14ve00_arc1.dds
+- name: remastered\arc\weapon\w14ve00.arc\JP_w14ve00_arc2.dds
+  method: copy
+  source:
+  - name: remastered\arc\weapon\w14ve00.arc\JP_w14ve00_arc2.dds
+- name: remastered\arc\weapon\w15ve00.arc\JP_w15ve00_arc0.dds
+  method: copy
+  source:
+  - name: remastered\arc\weapon\w15ve00.arc\JP_w15ve00_arc0.dds
+- name: remastered\arc\weapon\w15ve00.arc\JP_w15ve00_arc1.dds
+  method: copy
+  source:
+  - name: remastered\arc\weapon\w15ve00.arc\JP_w15ve00_arc1.dds
+- name: remastered\arc\weapon\w15ve00.arc\JP_w15ve00_arc2.dds
+  method: copy
+  source:
+  - name: remastered\arc\weapon\w15ve00.arc\JP_w15ve00_arc2.dds
+- name: remastered\arc\weapon\w16aq00.arc\JP_w16aq00_arc0.dds
+  method: copy
+  source:
+  - name: remastered\arc\weapon\w16aq00.arc\JP_w16aq00_arc0.dds
+- name: remastered\arc\weapon\w16ex10.arc\JP_w16ex10_arc0.dds
+  method: copy
+  source:
+  - name: remastered\arc\weapon\w16ex10.arc\JP_w16ex10_arc0.dds
+- name: remastered\arc\weapon\w16ex10.arc\JP_w16ex10_arc1.dds
+  method: copy
+  source:
+  - name: remastered\arc\weapon\w16ex10.arc\JP_w16ex10_arc1.dds
+- name: remastered\arc\weapon\w16te00.arc\JP_w16te00_arc0.dds
+  method: copy
+  source:
+  - name: remastered\arc\weapon\w16te00.arc\JP_w16te00_arc0.dds
+- name: remastered\arc\weapon\w16ve00.arc\JP_w16ve00_arc0.dds
+  method: copy
+  source:
+  - name: remastered\arc\weapon\w16ve00.arc\JP_w16ve00_arc0.dds
+- name: remastered\arc\weapon\w17aq00.arc\JP_w17aq00_arc0.dds
+  method: copy
+  source:
+  - name: remastered\arc\weapon\w17aq00.arc\JP_w17aq00_arc0.dds
+- name: remastered\arc\weapon\w17ex10.arc\JP_w17ex10_arc0.dds
+  method: copy
+  source:
+  - name: remastered\arc\weapon\w17ex10.arc\JP_w17ex10_arc0.dds
+- name: remastered\arc\weapon\w17ex10.arc\JP_w17ex10_arc1.dds
+  method: copy
+  source:
+  - name: remastered\arc\weapon\w17ex10.arc\JP_w17ex10_arc1.dds
+- name: remastered\arc\weapon\w17te00.arc\JP_w17te00_arc0.dds
+  method: copy
+  source:
+  - name: remastered\arc\weapon\w17te00.arc\JP_w17te00_arc0.dds
+- name: remastered\arc\weapon\w17ve00.arc\JP_w17ve00_arc0.dds
+  method: copy
+  source:
+  - name: remastered\arc\weapon\w17ve00.arc\JP_w17ve00_arc0.dds
+- name: remastered\arc\weapon\w18aq00.arc\JP_w18aq00_arc0.dds
+  method: copy
+  source:
+  - name: remastered\arc\weapon\w18aq00.arc\JP_w18aq00_arc0.dds
+- name: remastered\arc\weapon\w18ex10.arc\JP_w18ex10_arc0.dds
+  method: copy
+  source:
+  - name: remastered\arc\weapon\w18ex10.arc\JP_w18ex10_arc0.dds
+- name: remastered\arc\weapon\w18te00.arc\JP_w18te00_arc0.dds
+  method: copy
+  source:
+  - name: remastered\arc\weapon\w18te00.arc\JP_w18te00_arc0.dds
+- name: remastered\arc\weapon\w18ve00.arc\JP_w18ve00_arc0.dds
+  method: copy
+  source:
+  - name: remastered\arc\weapon\w18ve00.arc\JP_w18ve00_arc0.dds
+- name: remastered\arc\weapon\w19aq00.arc\JP_w19aq00_arc0.dds
+  method: copy
+  source:
+  - name: remastered\arc\weapon\w19aq00.arc\JP_w19aq00_arc0.dds
+- name: remastered\arc\weapon\w19aq00.arc\JP_w19aq00_arc1.dds
+  method: copy
+  source:
+  - name: remastered\arc\weapon\w19aq00.arc\JP_w19aq00_arc1.dds
+- name: remastered\arc\weapon\w19aq00.arc\JP_w19aq00_arc2.dds
+  method: copy
+  source:
+  - name: remastered\arc\weapon\w19aq00.arc\JP_w19aq00_arc2.dds
+- name: remastered\item\Tm2\it0001.tm2\-0.dds
+  method: copy
+  source:
+  - name: remastered\item\Tm2\it0001.tm2\-0.dds
+- name: remastered\item\Tm2\it0001s.tm2\-0.dds
+  method: copy
+  source:
+  - name: remastered\item\Tm2\it0001s.tm2\-0.dds
+- name: remastered\item\Tm2\it0002.tm2\-0.dds
+  method: copy
+  source:
+  - name: remastered\item\Tm2\it0002.tm2\-0.dds
+- name: remastered\item\Tm2\it0002s.tm2\-0.dds
+  method: copy
+  source:
+  - name: remastered\item\Tm2\it0002s.tm2\-0.dds
+- name: remastered\item\Tm2\it0003.tm2\-0.dds
+  method: copy
+  source:
+  - name: remastered\item\Tm2\it0003.tm2\-0.dds
+- name: remastered\item\Tm2\it0003s.tm2\-0.dds
+  method: copy
+  source:
+  - name: remastered\item\Tm2\it0003s.tm2\-0.dds
+- name: remastered\item\Tm2\it0004.tm2\-0.dds
+  method: copy
+  source:
+  - name: remastered\item\Tm2\it0004.tm2\-0.dds
+- name: remastered\item\Tm2\it0004s.tm2\-0.dds
+  method: copy
+  source:
+  - name: remastered\item\Tm2\it0004s.tm2\-0.dds
+- name: remastered\item\Tm2\it0005.tm2\-0.dds
+  method: copy
+  source:
+  - name: remastered\item\Tm2\it0005.tm2\-0.dds
+- name: remastered\item\Tm2\it0005s.tm2\-0.dds
+  method: copy
+  source:
+  - name: remastered\item\Tm2\it0005s.tm2\-0.dds
+- name: remastered\item\Tm2\it0006.tm2\-0.dds
+  method: copy
+  source:
+  - name: remastered\item\Tm2\it0006.tm2\-0.dds
+- name: remastered\item\Tm2\it0006s.tm2\-0.dds
+  method: copy
+  source:
+  - name: remastered\item\Tm2\it0006s.tm2\-0.dds
+- name: remastered\item\Tm2\it0007.tm2\-0.dds
+  method: copy
+  source:
+  - name: remastered\item\Tm2\it0007.tm2\-0.dds
+- name: remastered\item\Tm2\it0007s.tm2\-0.dds
+  method: copy
+  source:
+  - name: remastered\item\Tm2\it0007s.tm2\-0.dds
+- name: remastered\item\Tm2\it0008.tm2\-0.dds
+  method: copy
+  source:
+  - name: remastered\item\Tm2\it0008.tm2\-0.dds
+- name: remastered\item\Tm2\it0008s.tm2\-0.dds
+  method: copy
+  source:
+  - name: remastered\item\Tm2\it0008s.tm2\-0.dds
+- name: remastered\item\Tm2\it0009.tm2\-0.dds
+  method: copy
+  source:
+  - name: remastered\item\Tm2\it0009.tm2\-0.dds
+- name: remastered\item\Tm2\it0009s.tm2\-0.dds
+  method: copy
+  source:
+  - name: remastered\item\Tm2\it0009s.tm2\-0.dds
+- name: remastered\item\Tm2\it000a.tm2\-0.dds
+  method: copy
+  source:
+  - name: remastered\item\Tm2\it000a.tm2\-0.dds
+- name: remastered\item\Tm2\it000as.tm2\-0.dds
+  method: copy
+  source:
+  - name: remastered\item\Tm2\it000as.tm2\-0.dds
+- name: remastered\item\Tm2\it000b.tm2\-0.dds
+  method: copy
+  source:
+  - name: remastered\item\Tm2\it000b.tm2\-0.dds
+- name: remastered\item\Tm2\it000bs.tm2\-0.dds
+  method: copy
+  source:
+  - name: remastered\item\Tm2\it000bs.tm2\-0.dds
+- name: remastered\item\Tm2\it000c.tm2\-0.dds
+  method: copy
+  source:
+  - name: remastered\item\Tm2\it000c.tm2\-0.dds
+- name: remastered\item\Tm2\it000cs.tm2\-0.dds
+  method: copy
+  source:
+  - name: remastered\item\Tm2\it000cs.tm2\-0.dds
+- name: remastered\item\Tm2\it000d.tm2\-0.dds
+  method: copy
+  source:
+  - name: remastered\item\Tm2\it000d.tm2\-0.dds
+- name: remastered\item\Tm2\it000ds.tm2\-0.dds
+  method: copy
+  source:
+  - name: remastered\item\Tm2\it000ds.tm2\-0.dds
+- name: remastered\item\Tm2\it000e.tm2\-0.dds
+  method: copy
+  source:
+  - name: remastered\item\Tm2\it000e.tm2\-0.dds
+- name: remastered\item\Tm2\it000es.tm2\-0.dds
+  method: copy
+  source:
+  - name: remastered\item\Tm2\it000es.tm2\-0.dds
+- name: remastered\item\Tm2\it0010.tm2\-0.dds
+  method: copy
+  source:
+  - name: remastered\item\Tm2\it0010.tm2\-0.dds
+- name: remastered\item\Tm2\it0010s.tm2\-0.dds
+  method: copy
+  source:
+  - name: remastered\item\Tm2\it0010s.tm2\-0.dds
+- name: remastered\item\Tm2\it0011.tm2\-0.dds
+  method: copy
+  source:
+  - name: remastered\item\Tm2\it0011.tm2\-0.dds
+- name: remastered\item\Tm2\it0011s.tm2\-0.dds
+  method: copy
+  source:
+  - name: remastered\item\Tm2\it0011s.tm2\-0.dds
+- name: remastered\item\Tm2\it0012.tm2\-0.dds
+  method: copy
+  source:
+  - name: remastered\item\Tm2\it0012.tm2\-0.dds
+- name: remastered\item\Tm2\it0012s.tm2\-0.dds
+  method: copy
+  source:
+  - name: remastered\item\Tm2\it0012s.tm2\-0.dds
+- name: remastered\item\Tm2\it0100.tm2\-0.dds
+  method: copy
+  source:
+  - name: remastered\item\Tm2\it0100.tm2\-0.dds
+- name: remastered\item\Tm2\it0100s.tm2\-0.dds
+  method: copy
+  source:
+  - name: remastered\item\Tm2\it0100s.tm2\-0.dds
+- name: remastered\item\Tm2\it0101.tm2\-0.dds
+  method: copy
+  source:
+  - name: remastered\item\Tm2\it0101.tm2\-0.dds
+- name: remastered\item\Tm2\it0101s.tm2\-0.dds
+  method: copy
+  source:
+  - name: remastered\item\Tm2\it0101s.tm2\-0.dds
+- name: remastered\item\Tm2\it0102.tm2\-0.dds
+  method: copy
+  source:
+  - name: remastered\item\Tm2\it0102.tm2\-0.dds
+- name: remastered\item\Tm2\it0102s.tm2\-0.dds
+  method: copy
+  source:
+  - name: remastered\item\Tm2\it0102s.tm2\-0.dds
+- name: remastered\item\Tm2\it0103.tm2\-0.dds
+  method: copy
+  source:
+  - name: remastered\item\Tm2\it0103.tm2\-0.dds
+- name: remastered\item\Tm2\it0103s.tm2\-0.dds
+  method: copy
+  source:
+  - name: remastered\item\Tm2\it0103s.tm2\-0.dds
+- name: remastered\item\Tm2\it0104.tm2\-0.dds
+  method: copy
+  source:
+  - name: remastered\item\Tm2\it0104.tm2\-0.dds
+- name: remastered\item\Tm2\it0104s.tm2\-0.dds
+  method: copy
+  source:
+  - name: remastered\item\Tm2\it0104s.tm2\-0.dds
+- name: remastered\item\Tm2\it0105.tm2\-0.dds
+  method: copy
+  source:
+  - name: remastered\item\Tm2\it0105.tm2\-0.dds
+- name: remastered\item\Tm2\it0105s.tm2\-0.dds
+  method: copy
+  source:
+  - name: remastered\item\Tm2\it0105s.tm2\-0.dds
+- name: remastered\item\Tm2\it0106.tm2\-0.dds
+  method: copy
+  source:
+  - name: remastered\item\Tm2\it0106.tm2\-0.dds
+- name: remastered\item\Tm2\it0106s.tm2\-0.dds
+  method: copy
+  source:
+  - name: remastered\item\Tm2\it0106s.tm2\-0.dds
+- name: remastered\item\Tm2\it0107.tm2\-0.dds
+  method: copy
+  source:
+  - name: remastered\item\Tm2\it0107.tm2\-0.dds
+- name: remastered\item\Tm2\it0107s.tm2\-0.dds
+  method: copy
+  source:
+  - name: remastered\item\Tm2\it0107s.tm2\-0.dds
+- name: remastered\item\Tm2\it0108.tm2\-0.dds
+  method: copy
+  source:
+  - name: remastered\item\Tm2\it0108.tm2\-0.dds
+- name: remastered\item\Tm2\it0108s.tm2\-0.dds
+  method: copy
+  source:
+  - name: remastered\item\Tm2\it0108s.tm2\-0.dds
+- name: remastered\item\Tm2\it0109.tm2\-0.dds
+  method: copy
+  source:
+  - name: remastered\item\Tm2\it0109.tm2\-0.dds
+- name: remastered\item\Tm2\it0109s.tm2\-0.dds
+  method: copy
+  source:
+  - name: remastered\item\Tm2\it0109s.tm2\-0.dds
+- name: remastered\item\Tm2\it010a.tm2\-0.dds
+  method: copy
+  source:
+  - name: remastered\item\Tm2\it010a.tm2\-0.dds
+- name: remastered\item\Tm2\it010as.tm2\-0.dds
+  method: copy
+  source:
+  - name: remastered\item\Tm2\it010as.tm2\-0.dds
+- name: remastered\item\Tm2\it010b.tm2\-0.dds
+  method: copy
+  source:
+  - name: remastered\item\Tm2\it010b.tm2\-0.dds
+- name: remastered\item\Tm2\it010bs.tm2\-0.dds
+  method: copy
+  source:
+  - name: remastered\item\Tm2\it010bs.tm2\-0.dds
+- name: remastered\item\Tm2\it010c.tm2\-0.dds
+  method: copy
+  source:
+  - name: remastered\item\Tm2\it010c.tm2\-0.dds
+- name: remastered\item\Tm2\it010cs.tm2\-0.dds
+  method: copy
+  source:
+  - name: remastered\item\Tm2\it010cs.tm2\-0.dds
+- name: remastered\item\Tm2\it0110.tm2\-0.dds
+  method: copy
+  source:
+  - name: remastered\item\Tm2\it0110.tm2\-0.dds
+- name: remastered\item\Tm2\it0110s.tm2\-0.dds
+  method: copy
+  source:
+  - name: remastered\item\Tm2\it0110s.tm2\-0.dds
+- name: remastered\item\Tm2\it0111.tm2\-0.dds
+  method: copy
+  source:
+  - name: remastered\item\Tm2\it0111.tm2\-0.dds
+- name: remastered\item\Tm2\it0111s.tm2\-0.dds
+  method: copy
+  source:
+  - name: remastered\item\Tm2\it0111s.tm2\-0.dds
+- name: remastered\item\Tm2\it0112.tm2\-0.dds
+  method: copy
+  source:
+  - name: remastered\item\Tm2\it0112.tm2\-0.dds
+- name: remastered\item\Tm2\it0112s.tm2\-0.dds
+  method: copy
+  source:
+  - name: remastered\item\Tm2\it0112s.tm2\-0.dds
+- name: remastered\item\Tm2\it0200.tm2\-0.dds
+  method: copy
+  source:
+  - name: remastered\item\Tm2\it0200.tm2\-0.dds
+- name: remastered\item\Tm2\it0200s.tm2\-0.dds
+  method: copy
+  source:
+  - name: remastered\item\Tm2\it0200s.tm2\-0.dds
+- name: remastered\item\Tm2\it0201.tm2\-0.dds
+  method: copy
+  source:
+  - name: remastered\item\Tm2\it0201.tm2\-0.dds
+- name: remastered\item\Tm2\it0201s.tm2\-0.dds
+  method: copy
+  source:
+  - name: remastered\item\Tm2\it0201s.tm2\-0.dds
+- name: remastered\item\Tm2\it0202.tm2\-0.dds
+  method: copy
+  source:
+  - name: remastered\item\Tm2\it0202.tm2\-0.dds
+- name: remastered\item\Tm2\it0202s.tm2\-0.dds
+  method: copy
+  source:
+  - name: remastered\item\Tm2\it0202s.tm2\-0.dds
+- name: remastered\item\Tm2\it0203.tm2\-0.dds
+  method: copy
+  source:
+  - name: remastered\item\Tm2\it0203.tm2\-0.dds
+- name: remastered\item\Tm2\it0203s.tm2\-0.dds
+  method: copy
+  source:
+  - name: remastered\item\Tm2\it0203s.tm2\-0.dds
+- name: remastered\item\Tm2\it0204.tm2\-0.dds
+  method: copy
+  source:
+  - name: remastered\item\Tm2\it0204.tm2\-0.dds
+- name: remastered\item\Tm2\it0204s.tm2\-0.dds
+  method: copy
+  source:
+  - name: remastered\item\Tm2\it0204s.tm2\-0.dds
+- name: remastered\item\Tm2\it0205.tm2\-0.dds
+  method: copy
+  source:
+  - name: remastered\item\Tm2\it0205.tm2\-0.dds
+- name: remastered\item\Tm2\it0205s.tm2\-0.dds
+  method: copy
+  source:
+  - name: remastered\item\Tm2\it0205s.tm2\-0.dds
+- name: remastered\item\Tm2\it0206.tm2\-0.dds
+  method: copy
+  source:
+  - name: remastered\item\Tm2\it0206.tm2\-0.dds
+- name: remastered\item\Tm2\it0206s.tm2\-0.dds
+  method: copy
+  source:
+  - name: remastered\item\Tm2\it0206s.tm2\-0.dds
+- name: remastered\item\Tm2\it0207.tm2\-0.dds
+  method: copy
+  source:
+  - name: remastered\item\Tm2\it0207.tm2\-0.dds
+- name: remastered\item\Tm2\it0207s.tm2\-0.dds
+  method: copy
+  source:
+  - name: remastered\item\Tm2\it0207s.tm2\-0.dds
+- name: remastered\item\Tm2\it0208.tm2\-0.dds
+  method: copy
+  source:
+  - name: remastered\item\Tm2\it0208.tm2\-0.dds
+- name: remastered\item\Tm2\it0208s.tm2\-0.dds
+  method: copy
+  source:
+  - name: remastered\item\Tm2\it0208s.tm2\-0.dds
+- name: remastered\item\Tm2\it0209.tm2\-0.dds
+  method: copy
+  source:
+  - name: remastered\item\Tm2\it0209.tm2\-0.dds
+- name: remastered\item\Tm2\it0209s.tm2\-0.dds
+  method: copy
+  source:
+  - name: remastered\item\Tm2\it0209s.tm2\-0.dds
+- name: remastered\item\Tm2\it020a.tm2\-0.dds
+  method: copy
+  source:
+  - name: remastered\item\Tm2\it020a.tm2\-0.dds
+- name: remastered\item\Tm2\it020as.tm2\-0.dds
+  method: copy
+  source:
+  - name: remastered\item\Tm2\it020as.tm2\-0.dds
+- name: remastered\item\Tm2\it020b.tm2\-0.dds
+  method: copy
+  source:
+  - name: remastered\item\Tm2\it020b.tm2\-0.dds
+- name: remastered\item\Tm2\it020bs.tm2\-0.dds
+  method: copy
+  source:
+  - name: remastered\item\Tm2\it020bs.tm2\-0.dds
+- name: remastered\item\Tm2\it020c.tm2\-0.dds
+  method: copy
+  source:
+  - name: remastered\item\Tm2\it020c.tm2\-0.dds
+- name: remastered\item\Tm2\it020cs.tm2\-0.dds
+  method: copy
+  source:
+  - name: remastered\item\Tm2\it020cs.tm2\-0.dds
+- name: remastered\item\Tm2\it0210.tm2\-0.dds
+  method: copy
+  source:
+  - name: remastered\item\Tm2\it0210.tm2\-0.dds
+- name: remastered\item\Tm2\it0210s.tm2\-0.dds
+  method: copy
+  source:
+  - name: remastered\item\Tm2\it0210s.tm2\-0.dds
+- name: remastered\item\Tm2\it0211.tm2\-0.dds
+  method: copy
+  source:
+  - name: remastered\item\Tm2\it0211.tm2\-0.dds
+- name: remastered\item\Tm2\it0211s.tm2\-0.dds
+  method: copy
+  source:
+  - name: remastered\item\Tm2\it0211s.tm2\-0.dds
+- name: remastered\item\Tm2\it0212.tm2\-0.dds
+  method: copy
+  source:
+  - name: remastered\item\Tm2\it0212.tm2\-0.dds
+- name: remastered\item\Tm2\it0212s.tm2\-0.dds
+  method: copy
+  source:
+  - name: remastered\item\Tm2\it0212s.tm2\-0.dds
+- name: remastered\item\Tm2\it0213.tm2\-0.dds
+  method: copy
+  source:
+  - name: remastered\item\Tm2\it0213.tm2\-0.dds
+- name: remastered\item\Tm2\it0213s.tm2\-0.dds
+  method: copy
+  source:
+  - name: remastered\item\Tm2\it0213s.tm2\-0.dds
+- name: sound\win\se\weapon\se0501.win32.scd
+  method: copy
+  source:
+  - name: sound\win\se\weapon\se0501.win32.scd
+- name: sound\win\se\weapon\se0521.win32.scd
+  method: copy
+  source:
+  - name: sound\win\se\weapon\se0521.win32.scd
+- name: sound\win\se\weapon\se0541.win32.scd
+  method: copy
+  source:
+  - name: sound\win\se\weapon\se0541.win32.scd
+- name: remastered\chara\weapon\w01aq\00\w01aq00.pmo\-0.dds
+  method: copy
+  source:
+  - name: remastered\chara\weapon\w01aq\00\w01aq00.pmo\-0.dds
+- name: remastered\chara\weapon\w01aq\10\w01aq10.pmo\-0.dds
+  method: copy
+  source:
+  - name: remastered\chara\weapon\w01aq\10\w01aq10.pmo\-0.dds
+- name: remastered\chara\weapon\w01te\00\w01te00.pmo\-0.dds
+  method: copy
+  source:
+  - name: remastered\chara\weapon\w01te\00\w01te00.pmo\-0.dds
+- name: remastered\chara\weapon\w01te\10\w01te10.pmo\-0.dds
+  method: copy
+  source:
+  - name: remastered\chara\weapon\w01te\10\w01te10.pmo\-0.dds
+- name: remastered\chara\weapon\w01ve\00\w01ve00.pmo\-0.dds
+  method: copy
+  source:
+  - name: remastered\chara\weapon\w01ve\00\w01ve00.pmo\-0.dds
+- name: remastered\chara\weapon\w01ve\01\w01ve01.pmo\-0.dds
+  method: copy
+  source:
+  - name: remastered\chara\weapon\w01ve\01\w01ve01.pmo\-0.dds
+- name: remastered\chara\weapon\w01ve\10\w01ve10.pmo\-0.dds
+  method: copy
+  source:
+  - name: remastered\chara\weapon\w01ve\10\w01ve10.pmo\-0.dds
+- name: remastered\chara\weapon\w01ve\11\w01ve11.pmo\-0.dds
+  method: copy
+  source:
+  - name: remastered\chara\weapon\w01ve\11\w01ve11.pmo\-0.dds
+- name: remastered\chara\weapon\w02aq\00\w02aq00.pmo\-0.dds
+  method: copy
+  source:
+  - name: remastered\chara\weapon\w02aq\00\w02aq00.pmo\-0.dds
+- name: remastered\chara\weapon\w02ex\10\w02ex10.pmo\-0.dds
+  method: copy
+  source:
+  - name: remastered\chara\weapon\w02ex\10\w02ex10.pmo\-0.dds
+- name: remastered\chara\weapon\w02ex\11\w02ex11.pmo\-0.dds
+  method: copy
+  source:
+  - name: remastered\chara\weapon\w02ex\11\w02ex11.pmo\-0.dds
+- name: remastered\chara\weapon\w02te\00\w02te00.pmo\-0.dds
+  method: copy
+  source:
+  - name: remastered\chara\weapon\w02te\00\w02te00.pmo\-0.dds
+- name: remastered\chara\weapon\w02ve\00\w02ve00.pmo\-0.dds
+  method: copy
+  source:
+  - name: remastered\chara\weapon\w02ve\00\w02ve00.pmo\-0.dds
+- name: remastered\chara\weapon\w02ve\01\w02ve01.pmo\-0.dds
+  method: copy
+  source:
+  - name: remastered\chara\weapon\w02ve\01\w02ve01.pmo\-0.dds
+- name: remastered\chara\weapon\w03aq\00\w03aq00.pmo\-0.dds
+  method: copy
+  source:
+  - name: remastered\chara\weapon\w03aq\00\w03aq00.pmo\-0.dds
+- name: remastered\chara\weapon\w03ex\10\w03ex10.pmo\-0.dds
+  method: copy
+  source:
+  - name: remastered\chara\weapon\w03ex\10\w03ex10.pmo\-0.dds
+- name: remastered\chara\weapon\w03ex\11\w03ex11.pmo\-0.dds
+  method: copy
+  source:
+  - name: remastered\chara\weapon\w03ex\11\w03ex11.pmo\-0.dds
+- name: remastered\chara\weapon\w03te\00\w03te00.pmo\-0.dds
+  method: copy
+  source:
+  - name: remastered\chara\weapon\w03te\00\w03te00.pmo\-0.dds
+- name: remastered\chara\weapon\w03ve\00\w03ve00.pmo\-0.dds
+  method: copy
+  source:
+  - name: remastered\chara\weapon\w03ve\00\w03ve00.pmo\-0.dds
+- name: remastered\chara\weapon\w03ve\01\w03ve01.pmo\-0.dds
+  method: copy
+  source:
+  - name: remastered\chara\weapon\w03ve\01\w03ve01.pmo\-0.dds
+- name: remastered\chara\weapon\w04aq\00\w04aq00.pmo\-0.dds
+  method: copy
+  source:
+  - name: remastered\chara\weapon\w04aq\00\w04aq00.pmo\-0.dds
+- name: remastered\chara\weapon\w04ex\10\w04ex10.pmo\-0.dds
+  method: copy
+  source:
+  - name: remastered\chara\weapon\w04ex\10\w04ex10.pmo\-0.dds
+- name: remastered\chara\weapon\w04ex\11\w04ex11.pmo\-0.dds
+  method: copy
+  source:
+  - name: remastered\chara\weapon\w04ex\11\w04ex11.pmo\-0.dds
+- name: remastered\chara\weapon\w04te\00\w04te00.pmo\-0.dds
+  method: copy
+  source:
+  - name: remastered\chara\weapon\w04te\00\w04te00.pmo\-0.dds
+- name: remastered\chara\weapon\w04ve\00\w04ve00.pmo\-0.dds
+  method: copy
+  source:
+  - name: remastered\chara\weapon\w04ve\00\w04ve00.pmo\-0.dds
+- name: remastered\chara\weapon\w04ve\01\w04ve01.pmo\-0.dds
+  method: copy
+  source:
+  - name: remastered\chara\weapon\w04ve\01\w04ve01.pmo\-0.dds
+- name: remastered\chara\weapon\w05aq\00\w05aq00.pmo\-0.dds
+  method: copy
+  source:
+  - name: remastered\chara\weapon\w05aq\00\w05aq00.pmo\-0.dds
+- name: remastered\chara\weapon\w05ex\10\w05ex10.pmo\-0.dds
+  method: copy
+  source:
+  - name: remastered\chara\weapon\w05ex\10\w05ex10.pmo\-0.dds
+- name: remastered\chara\weapon\w05ex\11\w05ex11.pmo\-0.dds
+  method: copy
+  source:
+  - name: remastered\chara\weapon\w05ex\11\w05ex11.pmo\-0.dds
+- name: remastered\chara\weapon\w05te\00\w05te00.pmo\-0.dds
+  method: copy
+  source:
+  - name: remastered\chara\weapon\w05te\00\w05te00.pmo\-0.dds
+- name: remastered\chara\weapon\w05ve\00\w05ve00.pmo\-0.dds
+  method: copy
+  source:
+  - name: remastered\chara\weapon\w05ve\00\w05ve00.pmo\-0.dds
+- name: remastered\chara\weapon\w05ve\01\w05ve01.pmo\-0.dds
+  method: copy
+  source:
+  - name: remastered\chara\weapon\w05ve\01\w05ve01.pmo\-0.dds
+- name: remastered\chara\weapon\w06aq\00\w06aq00.pmo\-0.dds
+  method: copy
+  source:
+  - name: remastered\chara\weapon\w06aq\00\w06aq00.pmo\-0.dds
+- name: remastered\chara\weapon\w06ex\10\w06ex10.pmo\-0.dds
+  method: copy
+  source:
+  - name: remastered\chara\weapon\w06ex\10\w06ex10.pmo\-0.dds
+- name: remastered\chara\weapon\w06ex\11\w06ex11.pmo\-0.dds
+  method: copy
+  source:
+  - name: remastered\chara\weapon\w06ex\11\w06ex11.pmo\-0.dds
+- name: remastered\chara\weapon\w06te\00\w06te00.pmo\-0.dds
+  method: copy
+  source:
+  - name: remastered\chara\weapon\w06te\00\w06te00.pmo\-0.dds
+- name: remastered\chara\weapon\w06ve\00\w06ve00.pmo\-0.dds
+  method: copy
+  source:
+  - name: remastered\chara\weapon\w06ve\00\w06ve00.pmo\-0.dds
+- name: remastered\chara\weapon\w06ve\01\w06ve01.pmo\-0.dds
+  method: copy
+  source:
+  - name: remastered\chara\weapon\w06ve\01\w06ve01.pmo\-0.dds
+- name: remastered\chara\weapon\w07aq\00\w07aq00.pmo\-0.dds
+  method: copy
+  source:
+  - name: remastered\chara\weapon\w07aq\00\w07aq00.pmo\-0.dds
+- name: remastered\chara\weapon\w07ex\10\w07ex10.pmo\-0.dds
+  method: copy
+  source:
+  - name: remastered\chara\weapon\w07ex\10\w07ex10.pmo\-0.dds
+- name: remastered\chara\weapon\w07ex\11\w07ex11.pmo\-0.dds
+  method: copy
+  source:
+  - name: remastered\chara\weapon\w07ex\11\w07ex11.pmo\-0.dds
+- name: remastered\chara\weapon\w07te\00\w07te00.pmo\-0.dds
+  method: copy
+  source:
+  - name: remastered\chara\weapon\w07te\00\w07te00.pmo\-0.dds
+- name: remastered\chara\weapon\w07ve\00\w07ve00.pmo\-0.dds
+  method: copy
+  source:
+  - name: remastered\chara\weapon\w07ve\00\w07ve00.pmo\-0.dds
+- name: remastered\chara\weapon\w07ve\01\w07ve01.pmo\-0.dds
+  method: copy
+  source:
+  - name: remastered\chara\weapon\w07ve\01\w07ve01.pmo\-0.dds
+- name: remastered\chara\weapon\w09aq\00\w09aq00.pmo\-0.dds
+  method: copy
+  source:
+  - name: remastered\chara\weapon\w09aq\00\w09aq00.pmo\-0.dds
+- name: remastered\chara\weapon\w09ex\10\w09ex10.pmo\-0.dds
+  method: copy
+  source:
+  - name: remastered\chara\weapon\w09ex\10\w09ex10.pmo\-0.dds
+- name: remastered\chara\weapon\w09ex\11\w09ex11.pmo\-0.dds
+  method: copy
+  source:
+  - name: remastered\chara\weapon\w09ex\11\w09ex11.pmo\-0.dds
+- name: remastered\chara\weapon\w09te\00\w09te00.pmo\-0.dds
+  method: copy
+  source:
+  - name: remastered\chara\weapon\w09te\00\w09te00.pmo\-0.dds
+- name: remastered\chara\weapon\w09ve\00\w09ve00.pmo\-0.dds
+  method: copy
+  source:
+  - name: remastered\chara\weapon\w09ve\00\w09ve00.pmo\-0.dds
+- name: remastered\chara\weapon\w09ve\01\w09ve01.pmo\-0.dds
+  method: copy
+  source:
+  - name: remastered\chara\weapon\w09ve\01\w09ve01.pmo\-0.dds
+- name: remastered\chara\weapon\w10aq\00\w10aq00.pmo\-0.dds
+  method: copy
+  source:
+  - name: remastered\chara\weapon\w10aq\00\w10aq00.pmo\-0.dds
+- name: remastered\chara\weapon\w10ex\10\w10ex10.pmo\-0.dds
+  method: copy
+  source:
+  - name: remastered\chara\weapon\w10ex\10\w10ex10.pmo\-0.dds
+- name: remastered\chara\weapon\w10ex\11\w10ex11.pmo\-0.dds
+  method: copy
+  source:
+  - name: remastered\chara\weapon\w10ex\11\w10ex11.pmo\-0.dds
+- name: remastered\chara\weapon\w10te\00\w10te00.pmo\-0.dds
+  method: copy
+  source:
+  - name: remastered\chara\weapon\w10te\00\w10te00.pmo\-0.dds
+- name: remastered\chara\weapon\w10ve\00\w10ve00.pmo\-0.dds
+  method: copy
+  source:
+  - name: remastered\chara\weapon\w10ve\00\w10ve00.pmo\-0.dds
+- name: remastered\chara\weapon\w10ve\01\w10ve01.pmo\-0.dds
+  method: copy
+  source:
+  - name: remastered\chara\weapon\w10ve\01\w10ve01.pmo\-0.dds
+- name: remastered\chara\weapon\w11aq\00\w11aq00.pmo\-0.dds
+  method: copy
+  source:
+  - name: remastered\chara\weapon\w11aq\00\w11aq00.pmo\-0.dds
+- name: remastered\chara\weapon\w11ex\10\w11ex10.pmo\-0.dds
+  method: copy
+  source:
+  - name: remastered\chara\weapon\w11ex\10\w11ex10.pmo\-0.dds
+- name: remastered\chara\weapon\w11ex\11\w11ex11.pmo\-0.dds
+  method: copy
+  source:
+  - name: remastered\chara\weapon\w11ex\11\w11ex11.pmo\-0.dds
+- name: remastered\chara\weapon\w11te\00\w11te00.pmo\-0.dds
+  method: copy
+  source:
+  - name: remastered\chara\weapon\w11te\00\w11te00.pmo\-0.dds
+- name: remastered\chara\weapon\w11ve\00\w11ve00.pmo\-0.dds
+  method: copy
+  source:
+  - name: remastered\chara\weapon\w11ve\00\w11ve00.pmo\-0.dds
+- name: remastered\chara\weapon\w11ve\01\w11ve01.pmo\-0.dds
+  method: copy
+  source:
+  - name: remastered\chara\weapon\w11ve\01\w11ve01.pmo\-0.dds
+- name: remastered\chara\weapon\w12aq\00\w12aq00.pmo\-0.dds
+  method: copy
+  source:
+  - name: remastered\chara\weapon\w12aq\00\w12aq00.pmo\-0.dds
+- name: remastered\chara\weapon\w12aq\10\w12aq10.pmo\-0.dds
+  method: copy
+  source:
+  - name: remastered\chara\weapon\w12aq\10\w12aq10.pmo\-0.dds
+- name: remastered\chara\weapon\w12te\00\w12te00.pmo\-0.dds
+  method: copy
+  source:
+  - name: remastered\chara\weapon\w12te\00\w12te00.pmo\-0.dds
+- name: remastered\chara\weapon\w12te\10\w12te10.pmo\-0.dds
+  method: copy
+  source:
+  - name: remastered\chara\weapon\w12te\10\w12te10.pmo\-0.dds
+- name: remastered\chara\weapon\w13aq\00\w13aq00.pmo\-0.dds
+  method: copy
+  source:
+  - name: remastered\chara\weapon\w13aq\00\w13aq00.pmo\-0.dds
+- name: remastered\chara\weapon\w13aq\10\w13aq10.pmo\-0.dds
+  method: copy
+  source:
+  - name: remastered\chara\weapon\w13aq\10\w13aq10.pmo\-0.dds
+- name: remastered\chara\weapon\w13te\00\w13te00.pmo\-0.dds
+  method: copy
+  source:
+  - name: remastered\chara\weapon\w13te\00\w13te00.pmo\-0.dds
+- name: remastered\chara\weapon\w13te\10\w13te10.pmo\-0.dds
+  method: copy
+  source:
+  - name: remastered\chara\weapon\w13te\10\w13te10.pmo\-0.dds
+- name: remastered\chara\weapon\w14aq\00\w14aq00.pmo\-0.dds
+  method: copy
+  source:
+  - name: remastered\chara\weapon\w14aq\00\w14aq00.pmo\-0.dds
+- name: remastered\chara\weapon\w14aq\10\w14aq10.pmo\-0.dds
+  method: copy
+  source:
+  - name: remastered\chara\weapon\w14aq\10\w14aq10.pmo\-0.dds
+- name: remastered\chara\weapon\w14te\00\w14te00.pmo\-0.dds
+  method: copy
+  source:
+  - name: remastered\chara\weapon\w14te\00\w14te00.pmo\-0.dds
+- name: remastered\chara\weapon\w14te\10\w14te10.pmo\-0.dds
+  method: copy
+  source:
+  - name: remastered\chara\weapon\w14te\10\w14te10.pmo\-0.dds
+- name: remastered\chara\weapon\w14ve\00\w14ve00.pmo\-0.dds
+  method: copy
+  source:
+  - name: remastered\chara\weapon\w14ve\00\w14ve00.pmo\-0.dds
+- name: remastered\chara\weapon\w14ve\01\w14ve01.pmo\-0.dds
+  method: copy
+  source:
+  - name: remastered\chara\weapon\w14ve\01\w14ve01.pmo\-0.dds
+- name: remastered\chara\weapon\w14ve\10\w14ve10.pmo\-0.dds
+  method: copy
+  source:
+  - name: remastered\chara\weapon\w14ve\10\w14ve10.pmo\-0.dds
+- name: remastered\chara\weapon\w14ve\11\w14ve11.pmo\-0.dds
+  method: copy
+  source:
+  - name: remastered\chara\weapon\w14ve\11\w14ve11.pmo\-0.dds
+- name: remastered\chara\weapon\w15ve\00\w15ve00.pmo\-0.dds
+  method: copy
+  source:
+  - name: remastered\chara\weapon\w15ve\00\w15ve00.pmo\-0.dds
+- name: remastered\chara\weapon\w15ve\01\w15ve01.pmo\-0.dds
+  method: copy
+  source:
+  - name: remastered\chara\weapon\w15ve\01\w15ve01.pmo\-0.dds
+- name: remastered\chara\weapon\w15ve\10\w15ve10.pmo\-0.dds
+  method: copy
+  source:
+  - name: remastered\chara\weapon\w15ve\10\w15ve10.pmo\-0.dds
+- name: remastered\chara\weapon\w15ve\11\w15ve11.pmo\-0.dds
+  method: copy
+  source:
+  - name: remastered\chara\weapon\w15ve\11\w15ve11.pmo\-0.dds
+- name: remastered\chara\weapon\w16aq\00\w16aq00.pmo\-0.dds
+  method: copy
+  source:
+  - name: remastered\chara\weapon\w16aq\00\w16aq00.pmo\-0.dds
+- name: remastered\chara\weapon\w16ex\10\w16ex10.pmo\-0.dds
+  method: copy
+  source:
+  - name: remastered\chara\weapon\w16ex\10\w16ex10.pmo\-0.dds
+- name: remastered\chara\weapon\w16ex\11\w16ex11.pmo\-0.dds
+  method: copy
+  source:
+  - name: remastered\chara\weapon\w16ex\11\w16ex11.pmo\-0.dds
+- name: remastered\chara\weapon\w16te\00\w16te00.pmo\-0.dds
+  method: copy
+  source:
+  - name: remastered\chara\weapon\w16te\00\w16te00.pmo\-0.dds
+- name: remastered\chara\weapon\w16ve\00\w16ve00.pmo\-0.dds
+  method: copy
+  source:
+  - name: remastered\chara\weapon\w16ve\00\w16ve00.pmo\-0.dds
+- name: remastered\chara\weapon\w16ve\01\w16ve01.pmo\-0.dds
+  method: copy
+  source:
+  - name: remastered\chara\weapon\w16ve\01\w16ve01.pmo\-0.dds
+- name: remastered\chara\weapon\w17aq\00\w17aq00.pmo\-0.dds
+  method: copy
+  source:
+  - name: remastered\chara\weapon\w17aq\00\w17aq00.pmo\-0.dds
+- name: remastered\chara\weapon\w17ex\10\w17ex10.pmo\-0.dds
+  method: copy
+  source:
+  - name: remastered\chara\weapon\w17ex\10\w17ex10.pmo\-0.dds
+- name: remastered\chara\weapon\w17ex\11\w17ex11.pmo\-0.dds
+  method: copy
+  source:
+  - name: remastered\chara\weapon\w17ex\11\w17ex11.pmo\-0.dds
+- name: remastered\chara\weapon\w17te\00\w17te00.pmo\-0.dds
+  method: copy
+  source:
+  - name: remastered\chara\weapon\w17te\00\w17te00.pmo\-0.dds
+- name: remastered\chara\weapon\w17ve\00\w17ve00.pmo\-0.dds
+  method: copy
+  source:
+  - name: remastered\chara\weapon\w17ve\00\w17ve00.pmo\-0.dds
+- name: remastered\chara\weapon\w17ve\01\w17ve01.pmo\-0.dds
+  method: copy
+  source:
+  - name: remastered\chara\weapon\w17ve\01\w17ve01.pmo\-0.dds
+- name: remastered\chara\weapon\w18aq\00\w18aq00.pmo\-0.dds
+  method: copy
+  source:
+  - name: remastered\chara\weapon\w18aq\00\w18aq00.pmo\-0.dds
+- name: remastered\chara\weapon\w18ex\10\w18ex10.pmo\-0.dds
+  method: copy
+  source:
+  - name: remastered\chara\weapon\w18ex\10\w18ex10.pmo\-0.dds
+- name: remastered\chara\weapon\w18ex\11\w18ex11.pmo\-0.dds
+  method: copy
+  source:
+  - name: remastered\chara\weapon\w18ex\11\w18ex11.pmo\-0.dds
+- name: remastered\chara\weapon\w18te\00\w18te00.pmo\-0.dds
+  method: copy
+  source:
+  - name: remastered\chara\weapon\w18te\00\w18te00.pmo\-0.dds
+- name: remastered\chara\weapon\w18ve\00\w18ve00.pmo\-0.dds
+  method: copy
+  source:
+  - name: remastered\chara\weapon\w18ve\00\w18ve00.pmo\-0.dds
+- name: remastered\chara\weapon\w18ve\01\w18ve01.pmo\-0.dds
+  method: copy
+  source:
+  - name: remastered\chara\weapon\w18ve\01\w18ve01.pmo\-0.dds
+- name: remastered\chara\weapon\w19aq\00\w19aq00.pmo\-0.dds
+  method: copy
+  source:
+  - name: remastered\chara\weapon\w19aq\00\w19aq00.pmo\-0.dds
+- name: remastered\chara\weapon\w19aq\10\w19aq10.pmo\-0.dds
+  method: copy
+  source:
+  - name: remastered\chara\weapon\w19aq\10\w19aq10.pmo\-0.dds
